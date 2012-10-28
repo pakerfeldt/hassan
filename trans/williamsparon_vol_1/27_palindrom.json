@@ -1,1 +1,94 @@
-{"name":"Palindrom","spotifyUri":"spotify:track:56EvnBF2pyXzolUMa9cChB","youtubeUrl":"","albumName":"Williamspäron Vol 1","trackIndex":27,"transcription":{"parts":[],"dialog":[]}}
+{"name":"Palindrom","spotifyUri":"spotify:track:56EvnBF2pyXzolUMa9cChB","youtubeUrl":"xCQYxGJk_Z4","albumName":"Williamspäron Vol 1","trackIndex":27,"transcription":{{
+    "parts": [
+        {
+            "shortCode": "h",
+            "name": "Henrik Schyffert"
+        },
+        {
+            "shortCode": "1",
+            "name": "expedit"
+        }
+    ],
+    "dialog": [
+        {
+            "part": "1",
+            "text": "Shell Gyllene Ratten"
+        },
+        {
+            "part": "h",
+            "text": "Hejsan, Henrik Schyffert heter jag, ringer från Sveriges Radio."
+        },
+        {
+            "part": "1",
+            "text": "Ja, hej."
+        },
+        {
+            "part": "h",
+            "text": "Hej hej. Du, vi har kommit på en grej här!"
+        },
+        {
+            "part": "1",
+            "text": "Vadå?"
+        },
+        {
+            "part": "h",
+            "text": "Babar baklänges blir rabarber!"
+        },
+        {
+            "part": "1",
+            "text": "[tystnad]...och?"
+        },
+        {
+            "part": "h",
+            "text": "Ja, det är ju fantastiskt! Palindrom kallas det för, ord som man kan säga både fram- och baklänges."
+        },
+        {
+            "part": "1",
+            "text": "[skrattar] Ja..."
+        },
+        {
+            "part": "h",
+            "text": "Esso är ett sånt ord också."
+        },
+        {
+            "part": "1",
+            "text": "[tystnad] Nej."
+        },
+        {
+            "part": "h",
+            "text": "Jo."
+        },
+        {
+            "part": "1",
+            "text": "Osse."
+        },
+        {
+            "part": "h",
+            "text": "Oss... nä, ja nästan Esso blir det."
+        },
+        {
+            "part": "1",
+            "text": "[skratt] Ja."
+        },
+        {
+            "part": "h",
+            "text": "Ja, men rabarber är vi överens om i varje fall."
+        },
+        {
+            "part": "1",
+            "text": "Ja, men det är sant."
+        },
+        {
+            "part": "h",
+            "text": "Mmm, bra! Tack för det!"
+        },
+        {
+            "part": "1",
+            "text": "Ja."
+        },
+        {
+            "part": "h",
+            "text": "Hej!"
+        }
+    ]
+}}}
