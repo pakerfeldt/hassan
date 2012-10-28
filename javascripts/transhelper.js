@@ -30,9 +30,15 @@ function parse() {
     var i = elem.indexOf(':');
     if(i != -1) {
       var replyComponents = [elem.slice(0,i), elem.slice(i+1)];
-      console.log(replyComponents);
-      var reply = {"part" : replyComponents[0], "text" : $.trim(replyComponents[1])};
-      replies.push(reply);
+      var part = replyComponents[0];
+      var texta = replyComponents[1];
+      var isUncertain = [texta.slice(0,1)] == "?";
+      if(isUncertain) {
+        texta = texta.slice(1);
+        replies.push({"part" : part, "text" : $.trim(texta), "uncertain" : true});
+      } else {
+        replies.push({"part" : part, "text" : $.trim(texta)});
+      }
     } else {
       var i = elem.indexOf("=");
       if(i != -1) {
@@ -41,10 +47,7 @@ function parse() {
       }
     }
   });
-  console.log(replies);
   var str = JSON.stringify({"parts" : parts, "dialog" : replies}, undefined, 4);
-  //document.getElementById("transcription").innerHTML = syntaxHighlight(JSON.stringify({"dialog" : replies}));
   output(syntaxHighlight(str));
-  //$("#transcription").append($.dump(replies));
 }
 
