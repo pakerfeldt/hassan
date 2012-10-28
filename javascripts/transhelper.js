@@ -37,7 +37,7 @@ function parse() {
       var i = elem.indexOf("=");
       if(i != -1) {
         var partComponents = [elem.slice(0,i), elem.slice(i+1)];
-        parts.push({"short" : partComponents[0], "long" : partComponents[1]});
+        parts.push({"shortCode" : partComponents[0], "name" : partComponents[1]});
       }
     }
   });
