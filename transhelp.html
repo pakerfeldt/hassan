@@ -35,13 +35,14 @@
       <section>
         <h3>Hjälp vid transkribering</h3>
 
-<p>Den här sidan kan användas för att underlätta vid transkriberingen. I översta rutan matas dialogerna in på följande format:</p>
+<p>Den här sidan kan användas för att underlätta vid transkriberingen. Det är ett verktyg för att konvertera ett enklare format till det json-format som vi använder för varje transkribering. Börja med att definiera de olika parterna i samtalet. Detta görs genom att skriva kortkod=Benämning på personen. T.ex: f=Fredrik Lindström eller 1=Pizzeria Zorba. Därefter transkriberas själva dialogen med kortkod:replik. Se rutan nedan för exempel.</p>
 
-<pre><code>1:Telia nummerupplysning, Maria.
-h:Tjena! Fredrik Lindström heter jag. Du! Jag skulle behöva få tag på ett nummer. Vet du vart man kan vända sig någonstans för att få upplysningar om man ska ha tag på ett telefonnummer?
+<pre><code>f=Fredrik Lindström
+1=Maria
+1:Telia nummerupplysning, Maria.
+f:Tjena! Fredrik Lindström heter jag. Du! Jag skulle behöva få tag på ett nummer. Vet du vart man kan vända sig någonstans för att få upplysningar om man ska ha tag på ett telefonnummer?
 1: Ja? Eh, ja alltså det är dit du har ringt nu, 07975.
 </code></pre>
-<p>Här står h: för Hassan och 1: för den som blir uppringd. Är det flera personer så räknas de upp, 1:, 2:, osv.</p>
 <p>Använd sedan den resulterande json-objektet när du bidrar till projektet.</p>
 
 <p>

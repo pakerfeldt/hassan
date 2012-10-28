@@ -24,6 +24,7 @@ function syntaxHighlight(json) {
 
 function parse() {
   var replies = [];
+  var parts = [];
   var lines = $("#rawtrans").val().split("\n");
   $.each(lines, function(n, elem) {
     var i = elem.indexOf(':');
@@ -32,10 +33,16 @@ function parse() {
       console.log(replyComponents);
       var reply = {"part" : replyComponents[0], "text" : $.trim(replyComponents[1])};
       replies.push(reply);
+    } else {
+      var i = elem.indexOf("=");
+      if(i != -1) {
+        var partComponents = [elem.slice(0,i), elem.slice(i+1)];
+        parts.push({"short" : partComponents[0], "long" : partComponents[1]});
+      }
     }
   });
   console.log(replies);
-  var str = JSON.stringify({"dialog" : replies}, undefined, 4);
+  var str = JSON.stringify({"parts" : parts, "dialog" : replies}, undefined, 4);
   //document.getElementById("transcription").innerHTML = syntaxHighlight(JSON.stringify({"dialog" : replies}));
   output(syntaxHighlight(str));
   //$("#transcription").append($.dump(replies));
