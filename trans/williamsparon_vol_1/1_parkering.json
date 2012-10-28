@@ -1,1 +1,111 @@
-{"name":"Parkering","spotifyUri":"spotify:track:09l9bGGpeCS7ziwxmqCk0I","youtubeUrl":"","albumName":"Williamspäron Vol 1","trackIndex":1,"transcription":{"parts":[],"dialog":[]}}
+{"name":"Parkering","spotifyUri":"spotify:track:09l9bGGpeCS7ziwxmqCk0I","youtubeUrl":"","albumName":"Williamspäron Vol 1","trackIndex":1,"transcription":{
+    "parts": [
+        {
+            "shortCode": "f",
+            "name": "Fredrik Lindström"
+        },
+        {
+            "shortCode": "1",
+            "name": "Parkeringsvakten"
+        }
+    ],
+    "dialog": [
+        {
+            "part": "1",
+            "text": "Parkeringsvakten ???",
+            "uncertain": true
+        },
+        {
+            "part": "f",
+            "text": "Ja, är det gatukontoret?"
+        },
+        {
+            "part": "1",
+            "text": "Ja."
+        },
+        {
+            "part": "f",
+            "text": "Ja. Hej. Tjena. Fredrik Lindström heter jag."
+        },
+        {
+            "part": "1",
+            "text": "Ja."
+        },
+        {
+            "part": "f",
+            "text": "Jag ska in på systemet, odengatan. Tjacka några lådor calvados till helgen. Vi ska ha en riktigt röjarskiva vet du."
+        },
+        {
+            "part": "1",
+            "text": "Ja."
+        },
+        {
+            "part": "f",
+            "text": "Det är precis tjockt. Finns inte en plats. Så att jag tänkte så här, jag ställer mig på pa... handikapplatsen va. Så ringer jag upp och talar om det för er så att ni ..."
+        },
+        {
+            "part": "1",
+            "text": "Nej, det får du absolut inte göra."
+        },
+        {
+            "part": "f",
+            "text": "... och sen så. Jo men jag kommer in med en wienerkrans till er på eftermiddagen."
+        },
+        {
+            "part": "1",
+            "text": "Nej! Absolut inte!"
+        },
+        {
+            "part": "f",
+            "text": "Jo snälla."
+        },
+        {
+            "part": "1",
+            "text": "Ingen handikapplats. Det finns de som behöver den bättre."
+        },
+        {
+            "part": "f",
+            "text": "Gillar ni inte wienerkrans?"
+        },
+        {
+            "part": "1",
+            "text": "(skratt)"
+        },
+        {
+            "part": "f",
+            "text": "Jag kan köpa mazariner eller någonting."
+        },
+        {
+            "part": "1",
+            "text": "Nej, vi tar inte emot sånt där vet du. Du får absolut inte stå på en handikapplats."
+        },
+        {
+            "part": "f",
+            "text": "Nehe. Ah, det var ju synd."
+        },
+        {
+            "part": "1",
+            "text": "Du får hitta på något annat."
+        },
+        {
+            "part": "f",
+            "text": "Det var som fan."
+        },
+        {
+            "part": "1",
+            "text": "Mmm..."
+        },
+        {
+            "part": "f",
+            "text": "Tack ska du ha."
+        },
+        {
+            "part": "1",
+            "text": "Hej."
+        },
+        {
+            "part": "f",
+            "text": "Fint."
+        }
+    ]
+}}
