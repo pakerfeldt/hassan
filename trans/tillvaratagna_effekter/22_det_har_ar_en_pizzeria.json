@@ -1,1 +1,150 @@
-{"name":"Det Här Är En Pizzeria","spotifyUri":"spotify:track:4GJMpZUQm25faasYTsPu5y","youtubeUrl":"","albumName":"Tillvaratagna Effekter","trackIndex":22,"transcription":{"parts":[],"dialog":[]}}
+{"name":"Det Här Är En Pizzeria","spotifyUri":"spotify:track:4GJMpZUQm25faasYTsPu5y","youtubeUrl":"","albumName":"Tillvaratagna Effekter","trackIndex":22,"transcription":{
+    "parts": [
+        {
+            "shortCode": "h",
+            "name": "Kristian Luuk"
+        },
+        {
+            "shortCode": "1",
+            "name": "Pizzeria Zorba"
+        },
+        {
+            "shortCode": "2",
+            "name": "Örnsbergs pizzeria"
+        }
+    ],
+    "dialog": [
+        {
+            "part": "1",
+            "text": "Pizzeria Zorba."
+        },
+        {
+            "part": "h",
+            "text": "Hallå!?"
+        },
+        {
+            "part": "1",
+            "text": "Hallå?"
+        },
+        {
+            "part": "2",
+            "text": "Örnsbergs pizzeria."
+        },
+        {
+            "part": "2",
+            "text": "Hallå?"
+        },
+        {
+            "part": "1",
+            "text": "Hallå?"
+        },
+        {
+            "part": "2",
+            "text": "Ja?"
+        },
+        {
+            "part": "1",
+            "text": "Det här är en pizzeria."
+        },
+        {
+            "part": "2",
+            "text": "Ja, det är Örnsbergs."
+        },
+        {
+            "part": "h",
+            "text": "Capprioccia."
+        },
+        {
+            "part": "2",
+            "text": "Ska du ha en capprioccia?"
+        },
+        {
+            "part": "1",
+            "text": "Hallå?"
+        },
+        {
+            "part": "2",
+            "text": "Hör du mig?"
+        },
+        {
+            "part": "1",
+            "text": "Ja, jag hör dig, men du har ringt en pizzeria. Pizzeria Zorba."
+        },
+        {
+            "part": "2",
+            "text": "Till pizzeria?"
+        },
+        {
+            "part": "1",
+            "text": "Ja, det här är pizzeria Zorba."
+        },
+        {
+            "part": "2",
+            "text": "Nu... nej jag förstår inte. Du har ringt till en pizzeria?"
+        },
+        {
+            "part": "1",
+            "text": "Vem? Jag?"
+        },
+        {
+            "part": "2",
+            "text": "Ja"
+        },
+        {
+            "part": "1",
+            "text": "Nej, det här är en pizzeria."
+        },
+        {
+            "part": "2",
+            "text": "Det där är en pizzeria?"
+        },
+        {
+            "part": "1",
+            "text": "Ja, det här är pizzeria zorba."
+        },
+        {
+            "part": "h",
+            "text": "Hawaii."
+        },
+        {
+            "part": "2",
+            "text": "Det där är en pizzeria. Det här är också en pizzeria."
+        },
+        {
+            "part": "1",
+            "text": "Är det också en pizzeria där?"
+        },
+        {
+            "part": "2",
+            "text": "Ja."
+        },
+        {
+            "part": "1",
+            "text": "Ringde du hit?"
+        },
+        {
+            "part": "2",
+            "text": "Om jag ringde dit?"
+        },
+        {
+            "part": "1",
+            "text": "Ja."
+        },
+        {
+            "part": "2",
+            "text": "Nej."
+        },
+        {
+            "part": "1",
+            "text": "Ja, men då har det blivit något fel."
+        },
+        {
+            "part": "2",
+            "text": "Ja."
+        },
+        {
+            "part": "1",
+            "text": "Okej, hejdå."
+        }
+    ]
+}}
