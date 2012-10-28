@@ -7,7 +7,11 @@
 
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <link rel="stylesheet" href="stylesheets/forms.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <script class="jq" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <script type="text/javascript" src="javascripts/transhelper.js"></script>
+    <script type="text/javascript" src="javascripts/js-watermark.js"></script>
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -16,6 +20,7 @@
     <div class="wrapper">
       <header>
         <h1>Hassan</h1>
+
         <p class="view"><a href="transhelp.html">Transkriberingshjälp</a></p>
 
         <p class="view"><a href="https://github.com/pakerfeldt/hassan">Visa projektet på GitHub <small>pakerfeldt/hassan</small></a></p>
@@ -28,11 +33,28 @@
         </ul>
       </header>
       <section>
-        <h3>Hassan</h3>
+        <h3>Hjälp vid transkribering</h3>
 
-<p>Det här projektet är tänkt att ta fram transkriberingar av samtliga Hassan-spår.</p>
+<p>Den här sidan kan användas för att underlätta vid transkriberingen. I översta rutan matas dialogerna in på följande format:</p>
 
-<p>Om du tänker transkribera något spår så är du sannolikt behjälplig av <a href="transhelp.html">transkriberingshjälpen</a> som konverterar mellan ett enklare format till json.</p>
+<pre><code>1:Telia nummerupplysning, Maria.
+h:Tjena! Fredrik Lindström heter jag. Du! Jag skulle behöva få tag på ett nummer. Vet du vart man kan vända sig någonstans för att få upplysningar om man ska ha tag på ett telefonnummer?
+1: Ja? Eh, ja alltså det är dit du har ringt nu, 07975.
+</code></pre>
+<p>Här står h: för Hassan och 1: för den som blir uppringd. Är det flera personer så räknas de upp, 1:, 2:, osv.</p>
+<p>Använd sedan den resulterande json-objektet när du bidrar till projektet.</p>
+
+<p>
+<form>
+    <textarea class="jq_watermark" id="rawtrans" onchange="javascript:parse()" onkeyup="javascript:parse()" name="raw" placeholder="Ex. 1:Telia nummerupplysning, Maria."></textarea>
+    
+    <br/>
+    <input type="button" onclick="javascript:parse()" value="Konvertera"/>
+    
+    <br/>
+    <div><pre id="transcription"></pre></div>
+  </form>
+</p>
 
       </section>
       <footer>
@@ -41,6 +63,5 @@
       </footer>
     </div>
     <script src="javascripts/scale.fix.js"></script>
-    
   </body>
 </html>
