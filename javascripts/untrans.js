@@ -11,7 +11,7 @@ function findUntrans() {
 	  type: "GET",
 	  url: "https://raw.github.com/pakerfeldt/hassan/master/trans/williamsparon_vol_1/" + vol1[6],
 	  dataType: "jsonp",
-	  accepts : {"json" : "application/json"}
+	  accepts : {"json" : "application/json"},
 	  contentType: "application/json; charset=utf-8",
 	  success: function(data, textStatus){
 	    alert("data: " + data);
