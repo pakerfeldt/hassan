@@ -1,1 +1,203 @@
-{"name":"Nummerupplysningen","spotifyUri":"spotify:track:7wVHUIutsteODFiSOAiSEc","youtubeUrl":"","albumName":"Oxbringa Vol 4","trackIndex":5,"transcription":{"parts":[],"dialog":[]}}
+{"name":"Nummerupplysningen","spotifyUri":"spotify:track:7wVHUIutsteODFiSOAiSEc","youtubeUrl":"","albumName":"Oxbringa Vol 4","trackIndex":5,"transcription":{
+    "parts": [
+        {
+            "shortCode": "f",
+            "name": "Fredrik Lindström"
+        },
+        {
+            "shortCode": "2",
+            "name": "Maria på Telia Nummerupplysning"
+        }
+    ],
+    "dialog": [
+        {
+            "part": "1",
+            "text": "Telia Nummerupplysning, Maria."
+        },
+        {
+            "part": "f",
+            "text": "Ja, tjena. Fredrik Lindström heter jag. Du, jag skulle behöva ha tag på ett nummer. Vet du vart man kan vända sig någonstans för att få upplysningar om man ska ha tag på ett telefonnummer?"
+        },
+        {
+            "part": "1",
+            "text": "Jaa, eh, ja alltså det är ju dit du har ringt nu 07975."
+        },
+        {
+            "part": "f",
+            "text": "Ja det här är nummerupplysningen?"
+        },
+        {
+            "part": "1",
+            "text": "Ja, exakt."
+        },
+        {
+            "part": "f",
+            "text": "Ja, precis. Men jag vill ha ett nummer utav er."
+        },
+        {
+            "part": "1",
+            "text": "Ja vem vill du ha numret till då?"
+        },
+        {
+            "part": "f",
+            "text": "Jag vill ha numret till någon som kan ge mig information om vart man får tag på ett telefonnummer."
+        },
+        {
+            "part": "1",
+            "text": "Ja men det är ju hit."
+        },
+        {
+            "part": "f",
+            "text": "Men jag vill ha ett nummer utav er."
+        },
+        {
+            "part": "1",
+            "text": "Jo, naturligtvis."
+        },
+        {
+            "part": "f",
+            "text": "Om vart jag kan vända mig för att få information om ett telefonnummer."
+        },
+        {
+            "part": "1",
+            "text": "Ja men det är ju, vi gör ju det här."
+        },
+        {
+            "part": "f",
+            "text": "Ja men du kan inte tala om någonstans jag kan vända mig då?"
+        },
+        {
+            "part": "1",
+            "text": "Ja men om du ska ha ett telefonnummer så måste du ju säga vart du vill för jag tar ju fram telefonnumret åt dig här."
+        },
+        {
+            "part": "f",
+            "text": "Mm, men du kanske har en telefonkatalog eller någonting du kan titta i för det brukar stå nånstans där man kan vända sig om man behöver telefonnummer."
+        },
+        {
+            "part": "1",
+            "text": "Ja 07975."
+        },
+        {
+            "part": "f",
+            "text": "Ja, ja men då ringer jag dit då."
+        },
+        {
+            "part": "1",
+            "text": "Men du har ju ringt dit nu."
+        },
+        {
+            "part": "f",
+            "text": "Vart hade jag ringt någonstans?"
+        },
+        {
+            "part": "1",
+            "text": "Till nummerupplysningen."
+        },
+        {
+            "part": "f",
+            "text": "Ja, men kan inte du tala om vart jag ska ringa någonstans då?"
+        },
+        {
+            "part": "1",
+            "text": "Ja men du har ju redan ringt dit. Det är ju mig du pratar med."
+        },
+        {
+            "part": "f",
+            "text": "Är det dig jag pratar med. Åh herregud, förlåt, vet du vem jag trodde jag pratade med?"
+        },
+        {
+            "part": "1",
+            "text": "Näe."
+        },
+        {
+            "part": "f",
+            "text": "Jag trodde jag pratade med Terese."
+        },
+        {
+            "part": "1",
+            "text": "Jaha?"
+        },
+        {
+            "part": "f",
+            "text": "Hon jobbar på nummerupplysningen, 07975. Det ringer man om man vill ha ett telefonnumer."
+        },
+        {
+            "part": "1",
+            "text": "Ja exakt."
+        },
+        {
+            "part": "f",
+            "text": "Ja, ok, men jag ringer dit hörru. Tack ska du ha."
+        },
+        {
+            "part": "1",
+            "text": "Ja men du är ju redan här."
+        },
+        {
+            "part": "f",
+            "text": "Jaha. Du, då kan jag lika gärna fråga dig. Då behöver jag inte ringa dit."
+        },
+        {
+            "part": "1",
+            "text": "Jaha."
+        },
+        {
+            "part": "f",
+            "text": "Du ger upplysningar om telefonnummer, eller hur va?"
+        },
+        {
+            "part": "1",
+            "text": "Ja, exakt."
+        },
+        {
+            "part": "f",
+            "text": "Jättebra. Ok. Då tar vi det från början. Kan du ge mig ett telefonnummer till en information som ger upplysningar om telefonnummer, har du något sånt?"
+        },
+        {
+            "part": "1",
+            "text": "Ja men alltså."
+        },
+        {
+            "part": "f",
+            "text": "Till en nummerupplysning alltså."
+        },
+        {
+            "part": "1",
+            "text": "Ja men nummerupplysningen har du ju ringt."
+        },
+        {
+            "part": "f",
+            "text": "Jaha, jag ring.."
+        },
+        {
+            "part": "1",
+            "text": "Vad är det för nummerupplysning du ska ha då?"
+        },
+        {
+            "part": "f",
+            "text": "Jag ska ha tag på ett nummer dit va man kan ringa om man behöver få tag på telefonnummer. Men då kan jag ringa till dig alltså."
+        },
+        {
+            "part": "1",
+            "text": "Ja du är hos mig nu."
+        },
+        {
+            "part": "f",
+            "text": "Ok, tack ska du ha. Då ringer jag upp dig så kan jag fråga efter ett nummer hos dig."
+        },
+        {
+            "part": "1",
+            "text": "Ja, annars så går det bra direkt."
+        },
+        {
+            "part": "f",
+            "text": "Nä men vi tar det så, så jag får klarhet i det. Tack ska du ha dåså, hej."
+        },
+        {
+            "part": "1",
+            "text": "Hej."
+        }
+    ]
+}
+}
