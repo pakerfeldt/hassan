@@ -6,7 +6,7 @@ function findUntrans() {
 	//	console.log("https://raw.github.com/pakerfeldt/hassan/master/trans/williamsparon_vol_1/" + vol1[i]);
 	};
 	
-	
+	/*
 	$.ajax({
 	  type: "GET",
 	  url: "https://raw.github.com/pakerfeldt/hassan/master/trans/williamsparon_vol_1/" + vol1[6],
@@ -20,6 +20,22 @@ function findUntrans() {
 	    alert("error");
 	  }
 	});
+*/
+
+	$.ajax({
+        beforeSend: function(xhrObj){
+                xhrObj.setRequestHeader("Content-Type","application/json");
+                xhrObj.setRequestHeader("Accept","application/json");
+        }
+        type: "GET",
+        url: "https://raw.github.com/pakerfeldt/hassan/master/trans/williamsparon_vol_1/" + vol1[6],
+        processData: false,
+        data: jsonData,
+        dataType: "json",
+        success: function(json){
+        	console.log(json);
+        }
+});
 	
 /*
 $.get("https://raw.github.com/pakerfeldt/hassan/master/trans/williamsparon_vol_1/" + vol1[6], function(data){
