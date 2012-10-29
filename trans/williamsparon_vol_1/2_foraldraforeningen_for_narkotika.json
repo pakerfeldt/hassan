@@ -1,1 +1,63 @@
-{"name":"Föräldraföreningen För Narkotika","spotifyUri":"spotify:track:3FdFNF2GlaKUf2inaEyzJP","youtubeUrl":"","albumName":"Williamspäron Vol 1","trackIndex":2,"transcription":{"parts":[],"dialog":[]}}
+{"name":"Föräldraföreningen För Narkotika","spotifyUri":"spotify:track:3FdFNF2GlaKUf2inaEyzJP","youtubeUrl":"","albumName":"Williamspäron Vol 1","trackIndex":2,"transcription":{
+    "parts": [
+        {
+            "shortCode": "1",
+            "name": "Representant i föreningen"
+        },
+        {
+            "shortCode": "k",
+            "name": "Kristian Luuk"
+        }
+    ],
+    "dialog": [
+        {
+            "part": "1",
+            "text": "[presenterar sig] ???"
+        },
+        {
+            "part": "k",
+            "text": "Är det här Föräldrarföreningen mot Narkotika?"
+        },
+        {
+            "part": "1",
+            "text": "Det är riksförbundet Föräldrarföreningen mot Narkotika, ja. Kan jag hjälpa till med någoting?"
+        },
+        {
+            "part": "k",
+            "text": "Ja, kanske det. Kristian Luuk heter jag. Jag ringer från Föräldrarföreningen för Narkotika."
+        },
+        {
+            "part": "1",
+            "text": "Jaha?"
+        },
+        {
+            "part": "k",
+            "text": "Och, eh, vi håller på och anordnar en debatt som vi ska ha i Botkyrka om par veckor. Tänkte höra om ni kanske ville va... Vi kör lite på det här med pojken-och-vargen-mentaliteten, va. För det vet ju både du och jag att, att som vuxna människor, att det är lite överdramatiserat allt det här. Och att man kan sätta sig ner kanske och föra en debatt kring det. Gärna i en aula framför elever. Och så har vi, under mottot, Eight Miles High."
+        },
+        {
+            "part": "1",
+            "text": "Eh ... berätta gärna litegrann om er organisation samtidigt så kan vi se om vi kan mötas på något sätt."
+        },
+        {
+            "part": "k",
+            "text": "Ja just det. Vi går under parollen Kaos är Granne med Gud så att säga."
+        },
+        {
+            "part": "1",
+            "text": "Ja, ja ... okej."
+        },
+        {
+            "part": "k",
+            "text": "Bra! Tune in, Turn on, Drop out."
+        },
+        {
+            "part": "1",
+            "text": "... sätt igång bara."
+        },
+        {
+            "part": "k",
+            "text": "Ja bra."
+        }
+    ]
+}
+}
