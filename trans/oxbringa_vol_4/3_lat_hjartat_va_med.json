@@ -1,1 +1,55 @@
-{"name":"Låt Hjärtat Va\u0027 Med","spotifyUri":"spotify:track:7uWTGOIHp1Tk85Qm723S2O","youtubeUrl":"","albumName":"Oxbringa Vol 4","trackIndex":3,"transcription":{"parts":[],"dialog":[]}}
+{"name":"Låt Hjärtat Va\u0027 Med","spotifyUri":"spotify:track:7uWTGOIHp1Tk85Qm723S2O","youtubeUrl":"","albumName":"Oxbringa Vol 4","trackIndex":3,"transcription":{
+    "parts": [
+        {
+            "shortCode": "1",
+            "name": "Sebastian på Turistbyrån i Göteborg"
+        },
+        {
+            "shortCode": "2",
+            "name": "? ???"
+        }
+    ],
+    "dialog": [
+        {
+            "part": "1",
+            "text": "Turistbyrån Sebastian."
+        },
+        {
+            "part": "2",
+            "text": "Ja hej, är det turistinformationen i Göteborg?"
+        },
+        {
+            "part": "1",
+            "text": "Det stämmer."
+        },
+        {
+            "part": "2",
+            "text": "Sveriges framsida?"
+        },
+        {
+            "part": "1",
+            "text": "Ja, det är som man vill. [skrattar]"
+        },
+        {
+            "part": "2",
+            "text": "Lilla London kanske?"
+        },
+        {
+            "part": "1",
+            "text": "Ja det är det också."
+        },
+        {
+            "part": "2",
+            "text": "Tack ska du ha."
+        },
+        {
+            "part": "1",
+            "text": "Jadå, hej."
+        },
+        {
+            "part": "2",
+            "text": "Hej."
+        }
+    ]
+}
+}

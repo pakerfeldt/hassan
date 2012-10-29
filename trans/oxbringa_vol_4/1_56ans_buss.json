@@ -1,1 +1,169 @@
-{"name":"56:ans Buss","spotifyUri":"spotify:track:3LJD2qRnJ6RaCspx1pmT3c","youtubeUrl":"","albumName":"Oxbringa Vol 4","trackIndex":1,"transcription":{"parts":[],"dialog":[]}}
+{"name":"56:ans Buss","spotifyUri":"spotify:track:3LJD2qRnJ6RaCspx1pmT3c","youtubeUrl":"","albumName":"Oxbringa Vol 4","trackIndex":1,"transcription":{
+    "parts": [
+        {
+            "shortCode": "1",
+            "name": "Gerd på SLs bussgarage i Hornsberg"
+        },
+        {
+            "shortCode": "f",
+            "name": "Fredrik Lindström"
+        }
+    ],
+    "dialog": [
+        {
+            "part": "1",
+            "text": "TX Hornsberg det är Gerd ???",
+            "uncertain": true
+        },
+        {
+            "part": "f",
+            "text": "Ja, är det SL:s bussgarage i Hornsberg?"
+        },
+        {
+            "part": "1",
+            "text": "Jaa"
+        },
+        {
+            "part": "f",
+            "text": "Ja, hej Dennis Almner heter jag. Det är så här jag fyller trettio år igår och det var ett stort partaj här och jag fick en SL-buss i present och nu vill jag bara kolla att det gått rätt till att det inte är något skumt."
+        },
+        {
+            "part": "1",
+            "text": "Jaha, Men, [skrattar] det låter ju kanske lite konstigt."
+        },
+        {
+            "part": "f",
+            "text": "Ja, jag blev lite paff också. Wetterstrand Killarna??? som jag känt sen lumpen  vet du så står dom där utanför på morgonen och har kört fram en stor jävla röd SL-buss.",
+            "uncertain": true
+        },
+        {
+            "part": "1",
+            "text": "Ja."
+        },
+        {
+            "part": "f",
+            "text": "Så säger dom. [skratt] Nu du Dennis, nu jävlar ska det bli åka av serru."
+        },
+        {
+            "part": "1",
+            "text": "Ja. [skratt]"
+        },
+        {
+            "part": "f",
+            "text": "Dom vill att jag ska ha den och köra till jobbet med."
+        },
+        {
+            "part": "1",
+            "text": "Men kommer den ifrån Hornsberg?"
+        },
+        {
+            "part": "f",
+            "text": "56:an står det på den. Stora Essingen Hakberget står det. Men det är ju ingen chaufför i den eller nånting sånt ..."
+        },
+        {
+            "part": "1",
+            "text": "Näha."
+        },
+        {
+            "part": "f",
+            "text": "... så det verkar ju lugnt men det står en kassa, sån här växelkassa kvar i den och så en sån här chaufförsväska med lite biljetter och prylar i."
+        },
+        {
+            "part": "1",
+            "text": "Du vänta lite ..."
+        },
+        {
+            "part": "f",
+            "text": "Så jag undrar ju lite så kolla så det inte är något skumt att det någon som har snott den där utan att de har köpt den att det har gått korrekt till."
+        },
+        {
+            "part": "1",
+            "text": "Nä jag vet inte."
+        },
+        {
+            "part": "f",
+            "text": "För de hade inget kvitto med va men det ska man ju inte hålla på och begära att titta på kvitto på födelsedagspresenter. Det är ju inget roligt att  säga att vad har du gett för den där då. Det vill man ju inte, det tycker man ju är oartigt."
+        },
+        {
+            "part": "1",
+            "text": "Ja, precis. Dröj ett ögonblick."
+        },
+        {
+            "part": "f",
+            "text": "Mm."
+        },
+        {
+            "part": "1",
+            "text": "[pratar med någon vid sidan om] Lennart saknar du en buss? Saknar du en buss Lennart? Det är en kille som ringer här han har fått en SL-buss i födeledagspresent. Den står utanför hos honom, det står 56 på. Och det är växelkassa och allting i."
+        },
+        {
+            "part": "f",
+            "text": "Hallå ja."
+        },
+        {
+            "part": "1",
+            "text": "Vart står den någonstans?"
+        },
+        {
+            "part": "f",
+            "text": "Den står utanför mig, i Hägersten."
+        },
+        {
+            "part": "1",
+            "text": "Ja."
+        },
+        {
+            "part": "1",
+            "text": "I Hägersten?"
+        },
+        {
+            "part": "f",
+            "text": "Javisst. Ä vet du, sen har de med en sån, en en sån , en sån chaffisuniform med, du vet en sån blå som SL-gubbarna har med mössa. Det står, på mössan har de broderat det står Dennis fyllbuss står det."
+        },
+        {
+            "part": "1",
+            "text": "Jaha."
+        },
+        {
+            "part": "f",
+            "text": "Det är alltid mycket såna kul grepp med killarna men jag tänkte bara Stora Essingen, Hakberget vet du."
+        },
+        {
+            "part": "1",
+            "text": "Eh, Jaa."
+        },
+        {
+            "part": "f",
+            "text": "Typisk sån här SL-buss men inga passagerare i vet du och chauffören är ju inte kvar eller nånting sånt utan det är ju lugnt. Ja."
+        },
+        {
+            "part": "1",
+            "text": "Ja."
+        },
+        {
+            "part": "f",
+            "text": "Du är den svår att lägga i backen på?"
+        },
+        {
+            "part": "1",
+            "text": "Ja, eh, nä det är inte svårt. Men du måste alltid gå via neutral vet du."
+        },
+        {
+            "part": "f",
+            "text": "Ja, ok, ja men det hajjar jag. Jag dundrar iväg till jobbet nu hörrö så hör jag av mig sen då."
+        },
+        {
+            "part": "1",
+            "text": "Ja ring."
+        },
+        {
+            "part": "f",
+            "text": "Tack ska du ha."
+        },
+        {
+            "part": "1",
+            "text": "Ja hej."
+        }
+    ]
+}
+}
