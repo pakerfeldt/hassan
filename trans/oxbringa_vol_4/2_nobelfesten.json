@@ -1,1 +1,104 @@
-{"name":"Nobelfesten","spotifyUri":"spotify:track:746fYQ0ymM8REWTHZav1HY","youtubeUrl":"","albumName":"Oxbringa Vol 4","trackIndex":2,"transcription":{"parts":[],"dialog":[]}}
+{"name":"Nobelfesten","spotifyUri":"spotify:track:746fYQ0ymM8REWTHZav1HY","youtubeUrl":"","albumName":"Oxbringa Vol 4","trackIndex":2,"transcription":{
+    "parts": [
+        {
+            "shortCode": "1",
+            "name": "Ingrid på Stadshuset ??? enheten"
+        },
+        {
+            "shortCode": "e",
+            "name": "Erik Haag"
+        }
+    ],
+    "dialog": [
+        {
+            "part": "1",
+            "text": "Stadshuset ??? enheten, Ingrid",
+            "uncertain": true
+        },
+        {
+            "part": "e",
+            "text": "Keep on rocking, twentyfourseven, non stop music. Hallå, hallå, Björn Granberg heter jag, hej."
+        },
+        {
+            "part": "1",
+            "text": "Hallå, hallå [skratt]"
+        },
+        {
+            "part": "e",
+            "text": "Hej, eh, du jobbar med Nobelfesten?"
+        },
+        {
+            "part": "1",
+            "text": "Njae, men jag har lite hum om det. Vad gäller det?"
+        },
+        {
+            "part": "e",
+            "text": "Eh, ja det är så att jag ska spela plattor på eftersläckningen."
+        },
+        {
+            "part": "1",
+            "text": "Jaha."
+        },
+        {
+            "part": "e",
+            "text": "Och, jag har med mig egna grejer de sade att jag skulle ta egna burkar och så dära. Och då undrar jag bara om vi kan köra in på gården där."
+        },
+        {
+            "part": "1",
+            "text": "Till Nobelfesten?"
+        },
+        {
+            "part": "e",
+            "text": "För det, för det är ju många grejer jag behöver komma förbi om jag kan komma förbi och kolla vart man kan rigga rökmaskinerna också."
+        },
+        {
+            "part": "1",
+            "text": "Men du vad ska du ha rökmaskiner till?"
+        },
+        {
+            "part": "e",
+            "text": "Det är till discot, efterfesten."
+        },
+        {
+            "part": "1",
+            "text": "I Blå hallen?"
+        },
+        {
+            "part": "e",
+            "text": "Mm, alltså de har bokat mig för discot, efterfesten och de vill liksom ha stora paketet och det är med rök och det är med förshowen också med ljus där också. Först är det helt svart i hela salen man hör bara sådär andning, man hör bara en klocka så här tick, tick, tick, tick. Sen hör man bara så här get ready to pay."
+        },
+        {
+            "part": "1",
+            "text": "Ring in till expeditionen. Jag kan ge dig deras telefonnummer så kan du få prata med dem istället för jag har ingen aning om det här nämligen."
+        },
+        {
+            "part": "e",
+            "text": "Men du."
+        },
+        {
+            "part": "1",
+            "text": "Ja?"
+        },
+        {
+            "part": "e",
+            "text": "Jag tror inte du, eh, kanske är rätt person att snacka med va?"
+        },
+        {
+            "part": "1",
+            "text": "Nä, det tror inte jag heller."
+        },
+        {
+            "part": "e",
+            "text": "Du, om jag ringer och pratar med själva överkuckun istället."
+        },
+        {
+            "part": "1",
+            "text": "Gör det du."
+        },
+        {
+            "part": "e",
+            "text": "Tack så mycket för hjälpen."
+        }
+    ]
+}
+}
