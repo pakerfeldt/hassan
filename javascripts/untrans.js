@@ -26,7 +26,7 @@ function findUntrans() {
         beforeSend: function(xhrObj){
                 xhrObj.setRequestHeader("Content-Type","application/json");
                 xhrObj.setRequestHeader("Accept","application/json");
-        }
+        },
         type: "GET",
         url: "https://raw.github.com/pakerfeldt/hassan/master/trans/williamsparon_vol_1/" + vol1[6],
         processData: false,
