@@ -9,7 +9,7 @@ function findUntrans() {
 	$.ajax({
 	  type: "GET",
 	  url: "https://raw.github.com/pakerfeldt/hassan/master/trans/williamsparon_vol_1/" + vol1[6],
-	  dataType: "text",
+	  dataType: "jsonp",
 	  contentType: "text/plain; charset=utf-8",
 	  success: function(data, textStatus){
 	    alert("data: " + data);
