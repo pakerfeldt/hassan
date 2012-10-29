@@ -1,1 +1,176 @@
-{"name":"Ingrid","spotifyUri":"spotify:track:5fKKInse8LsfKXapXRc081","youtubeUrl":"","albumName":"Oxbringa Vol 4","trackIndex":4,"transcription":{"parts":[],"dialog":[]}}
+{"name":"Ingrid","spotifyUri":"spotify:track:5fKKInse8LsfKXapXRc081","youtubeUrl":"","albumName":"Oxbringa Vol 4","trackIndex":4,"transcription":{
+    "parts": [
+        {
+            "shortCode": "f",
+            "name": "Fredrik Lindström"
+        }
+    ],
+    "dialog": [
+        {
+            "part": "1",
+            "text": "Ingvar Carlsson"
+        },
+        {
+            "part": "f",
+            "text": "Då säger vi hej till Socialdemokraternas partiledare, Ingvar Carlsson."
+        },
+        {
+            "part": "1",
+            "text": "Hej!"
+        },
+        {
+            "part": "f",
+            "text": "Hej, hej, eh jag skulle vilja ställa en rak fråga till dig Ingvar Carlsson nu. Det här är ju en väldigt hård valrörelse i år och den är fylld av antagonism och hårda kontroverser mellan partiledarna. Jag tycker det är intressant att se det här för att många partiledare håller masken, så att säga offentligt men du och Carl Bildt tycker uppenbarligen väldigt illa om varandra. Jag såg  på tv igår och ni knappt hälsade på varan. Har du någon kommentar till det här?"
+        },
+        {
+            "part": "1",
+            "text": "Jag beklagar den här personfejden mellan mig och Bildt. Först och främst av politiska skäl. Men också av personliga skäl. Men det är så att jag har ett oerhört stöd från min fru Ingrid."
+        },
+        {
+            "part": "f",
+            "text": "Mm, men många efterlyser ju idag, samlade aktioner i en sån här krissituation"
+        },
+        {
+            "part": "1",
+            "text": "Ingrid!"
+        },
+        {
+            "part": "f",
+            "text": "Ingvar, alltså när Sverige befinner sig i kris att man efterlyser nån slags samförstånd"
+        },
+        {
+            "part": "1",
+            "text": "Det är min fru, Ingrid!"
+        },
+        {
+            "part": "f",
+            "text": "Ja just det, din fru Ingrid. Men förstår du vad jag menar, jag pratar om samförstånd så att man så att säga"
+        },
+        {
+            "part": "1",
+            "text": "Ingrid!"
+        },
+        {
+            "part": "f",
+            "text": "Att man skulle överbrygga problemen Ingvar."
+        },
+        {
+            "part": "1",
+            "text": "Iiiingrid!"
+        },
+        {
+            "part": "f",
+            "text": "Ja."
+        },
+        {
+            "part": "1",
+            "text": "Iiingrid!"
+        },
+        {
+            "part": "f",
+            "text": "En koalitionsregering, Ingvar är något som många har talat om."
+        },
+        {
+            "part": "1",
+            "text": "Iiing..öh..Iiingrid!"
+        },
+        {
+            "part": "f",
+            "text": "Kan du tänka dig."
+        },
+        {
+            "part": "1",
+            "text": "Äeengrid!"
+        },
+        {
+            "part": "f",
+            "text": "Men, alltså Ingvar, vad jag för..."
+        },
+        {
+            "part": "1",
+            "text": "Iiingrid!"
+        },
+        {
+            "part": "f",
+            "text": "Vad jag frågar dig är ju om politiskt"
+        },
+        {
+            "part": "1",
+            "text": "bllleeäiid ??? Ingrid!",
+            "uncertain": true
+        },
+        {
+            "part": "f",
+            "text": "Jo, jag vet att det är Ingrid."
+        },
+        {
+            "part": "1",
+            "text": "Ja, det är Ingrid."
+        },
+        {
+            "part": "f",
+            "text": "Men vad jag efterlyser är breda lösningar, samförstånd."
+        },
+        {
+            "part": "1",
+            "text": "Iiingrid!"
+        },
+        {
+            "part": "f",
+            "text": "Politiskt samförstånd."
+        },
+        {
+            "part": "1",
+            "text": "ngrid!"
+        },
+        {
+            "part": "f",
+            "text": "Finns det en möjlighet? Jag vill bara ha ett svar. Jag tycker du undviker att svara på frågan."
+        },
+        {
+            "part": "1",
+            "text": "Det är Ingrid!"
+        },
+        {
+            "part": "f",
+            "text": "Ja, jag vet det är Ingrid."
+        },
+        {
+            "part": "1",
+            "text": "Det är Ingrid igen, ja."
+        },
+        {
+            "part": "f",
+            "text": "Jag tycker du undviker att svara på min fråga."
+        },
+        {
+            "part": "1",
+            "text": "Ingrid!"
+        },
+        {
+            "part": "f",
+            "text": "Jag tycker du undviker min fråga."
+        },
+        {
+            "part": "1",
+            "text": "Ingrid!"
+        },
+        {
+            "part": "f",
+            "text": "Jag tror vi avslutar intervjun. Vi får återkomma till dig Ingvar Carlsson."
+        },
+        {
+            "part": "1",
+            "text": "Ja."
+        },
+        {
+            "part": "f",
+            "text": "Tack för att du ville medverka."
+        },
+        {
+            "part": "1",
+            "text": "Tack."
+        }
+    ]
+}
+}
