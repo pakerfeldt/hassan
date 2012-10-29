@@ -23,18 +23,17 @@ function findUntrans() {
 */
 
 	$.ajax({
-        beforeSend: function(xhrObj){
-                xhrObj.setRequestHeader("Content-Type","application/json");
-                xhrObj.setRequestHeader("Accept","application/json");
-        },
-        type: "GET",
-        url: "https://raw.github.com/pakerfeldt/hassan/master/trans/williamsparon_vol_1/" + vol1[6],
-        processData: false,
-        dataType: "jsonp",
-        success: function(json){
-        	console.log(json);
-        }
-});
+	    headers: { 
+	        Accept : "application/json; charset=utf-8",
+	        "Content-Type": "application/json; charset=utf-8"
+	    },
+	    type: "GET",
+	  	url: "https://raw.github.com/pakerfeldt/hassan/master/trans/williamsparon_vol_1/" + vol1[6],
+	    dataType : "jsonp",
+	    success : function(response) {
+	        console.log(response);
+	    }
+	});
 	
 /*
 $.get("https://raw.github.com/pakerfeldt/hassan/master/trans/williamsparon_vol_1/" + vol1[6], function(data){
