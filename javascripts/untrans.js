@@ -30,7 +30,7 @@ function findUntrans() {
         type: "GET",
         url: "https://raw.github.com/pakerfeldt/hassan/master/trans/williamsparon_vol_1/" + vol1[6],
         processData: false,
-        dataType: "json",
+        dataType: "jsonp",
         success: function(json){
         	console.log(json);
         }
