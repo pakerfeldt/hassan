@@ -23,7 +23,7 @@ function findUntrans() {
 
 $.get("https://raw.github.com/pakerfeldt/hassan/master/trans/williamsparon_vol_1/" + vol1[6], function(data){
   alert("Data Loaded: " + data);
-}, "text");
+}, "json");
 /*
 	$.getJSON("https://raw.github.com/pakerfeldt/hassan/master/trans/williamsparon_vol_1/" + vol1[6] + "?jsoncallback=?",
         function(data){
