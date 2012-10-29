@@ -1,1 +1,97 @@
-{"name":"Ett Par Strumpor","spotifyUri":"spotify:track:0RJR15UjFt4xHAOd8mlLJz","youtubeUrl":"","albumName":"Oxbringa Vol 4","trackIndex":6,"transcription":{"parts":[],"dialog":[]}}
+{"name":"Ett Par Strumpor","spotifyUri":"spotify:track:0RJR15UjFt4xHAOd8mlLJz","youtubeUrl":"","albumName":"Oxbringa Vol 4","trackIndex":6,"transcription":{
+    "parts": [
+        {
+            "shortCode": "1",
+            "name": "Klädesaffären"
+        },
+        {
+            "shortCode": "u",
+            "name": "Lasse Sundholm imiterar Ulf Lundell"
+        }
+    ],
+    "dialog": [
+        {
+            "part": "1",
+            "text": "??? Gomiddag.",
+            "uncertain": true
+        },
+        {
+            "part": "u",
+            "text": "Ja är det klädesaffären?"
+        },
+        {
+            "part": "1",
+            "text": "Ja."
+        },
+        {
+            "part": "u",
+            "text": "Ja god dag, mitt namn är Ulf Lundell."
+        },
+        {
+            "part": "1",
+            "text": "Ja."
+        },
+        {
+            "part": "u",
+            "text": "Jag köpte ett par,eeh, strumpor, eeh, vita igår eh hos er och sen på kvällen så blev de lite smutsiga så jag tvättade dem litegrand men."
+        },
+        {
+            "part": "1",
+            "text": "Ja."
+        },
+        {
+            "part": "u",
+            "text": "Och nu vet jag inte riktigt längre vad de står för längre."
+        },
+        {
+            "part": "1",
+            "text": "Nähä, är de inte vita längre menar du?"
+        },
+        {
+            "part": "u",
+            "text": "Jodå dom är vita men, det känns på ett annat sätt på något sätt men."
+        },
+        {
+            "part": "1",
+            "text": "Hörrdu kan du komma in med dem då får vi se. Var det en ??? strumpa du köpte?",
+            "uncertain": true
+        },
+        {
+            "part": "u",
+            "text": "Ja det var en ???",
+            "uncertain": true
+        },
+        {
+            "part": "1",
+            "text": "Ja men kom in så ska vi titta på dom."
+        },
+        {
+            "part": "u",
+            "text": "Ja men. Jag sitter här ensam i min lägenhet och tänker att. Ensamhet är ändå inte samma sak som frihet."
+        },
+        {
+            "part": "1",
+            "text": "Nä just det. [skrattar] Jaja."
+        },
+        {
+            "part": "u",
+            "text": "Jag går in och kollar då."
+        },
+        {
+            "part": "1",
+            "text": "Ja."
+        },
+        {
+            "part": "u",
+            "text": "Tackhej,"
+        },
+        {
+            "part": "1",
+            "text": "Ja hej."
+        },
+        {
+            "part": "u",
+            "text": "Tackhej."
+        }
+    ]
+}}
