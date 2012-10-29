@@ -49,5 +49,10 @@ function parse() {
   });
   var str = JSON.stringify({"parts" : parts, "dialog" : replies}, undefined, 4);
   output(syntaxHighlight(str));
+  return str;
+}
+
+function copy() {
+   window.prompt ("Copy to clipboard: Ctrl+C/Cmd+C, Enter", parse());
 }
 
