@@ -18,13 +18,13 @@ function findUntrans() {
 	    alert("error");
 	  }
 	});
-/*
+
 
 	$.getJSON("https://raw.github.com/pakerfeldt/hassan/master/trans/williamsparon_vol_1/" + vol1[6] + "?jsoncallback=?",
         function(data){
         	console.log("test");
         });
-*/
+
 }
 /*
           $.each(data.items, function(i,item){
