@@ -1,1 +1,66 @@
-{"name":"Do The Choka Choka","spotifyUri":"spotify:track:75LpDWqdn42guyhLFQ9qQD","youtubeUrl":"","albumName":"Williamspäron Vol 1","trackIndex":6,"transcription":{"parts":[],"dialog":[]}}
+{"name":"Do The Choka Choka","spotifyUri":"spotify:track:75LpDWqdn42guyhLFQ9qQD","youtubeUrl":"","albumName":"Williamspäron Vol 1","trackIndex":6,"transcription":{
+    "parts": [
+        {
+            "shortCode": "1",
+            "name": "Okänd"
+        },
+        {
+            "shortCode": "f",
+            "name": "Freul Macridson"
+        }
+    ],
+    "dialog": [
+        {
+            "part": "1",
+            "text": "[presenterar sig] ???"
+        },
+        {
+            "part": "f",
+            "text": "Hello! Yeah. My name is Freul Macridson and I am calling you from the criss cross crawlicorexor."
+        },
+        {
+            "part": "1",
+            "text": "Jaha. Which means?"
+        },
+        {
+            "part": "f",
+            "text": "Eh. We got, we got a guy yojanoga crawling down, fr... from the desk and floor to the chili chili not stand of the other corner of the my livingroom floor of the second ceiling around the ba crawl a creel as a ceiling cox."
+        },
+        {
+            "part": "1",
+            "text": "... which means?"
+        },
+        {
+            "part": "f",
+            "text": "Which means, that you must crawl ma crill and do the chimb a churn. Move the floor over the building, take it from the ceiling and go down the baby baby suds."
+        },
+        {
+            "part": "1",
+            "text": "[skratt] You must have the wrong number."
+        },
+        {
+            "part": "f",
+            "text": "Isn't this ... 6-4-2?"
+        },
+        {
+            "part": "1",
+            "text": "Yes."
+        },
+        {
+            "part": "f",
+            "text": "Yeah, then, then this bang on target pal. We take the baby. Crawl the... take it to the livingroom. Stop it at the lobby. Do the choka choka. Living on the life. Eh, stepping out the front floor to the ceiling where there's no bottom at all."
+        },
+        {
+            "part": "1",
+            "text": "Sorry. I don't understand."
+        },
+        {
+            "part": "f",
+            "text": "Okay. I lift my hat of and say good morning."
+        },
+        {
+            "part": "1",
+            "text": "Good morning."
+        }
+    ]
+}}
