@@ -1,1 +1,250 @@
-{"name":"Frodenkvist, Tvättskurken","spotifyUri":"spotify:track:77WkE3z2oXQnauLtNUvs9d","youtubeUrl":"","albumName":"Williamspäron Vol 1","trackIndex":10,"transcription":{"parts":[],"dialog":[]}}
+{"name":"Frodenkvist, Tvättskurken","spotifyUri":"spotify:track:77WkE3z2oXQnauLtNUvs9d","youtubeUrl":"","albumName":"Williamspäron Vol 1","trackIndex":10,"transcription":{
+    "parts": [
+        {
+            "shortCode": "1",
+            "name": "Gunilla Berggren"
+        },
+        {
+            "shortCode": "m",
+            "name": "Magnus af Frodenkvist"
+        }
+    ],
+    "dialog": [
+        {
+            "part": "1",
+            "text": "Gunilla Berggren."
+        },
+        {
+            "part": "m",
+            "text": "Ja, god dag! Magnus af Frodenkvist."
+        },
+        {
+            "part": "1",
+            "text": "Hej."
+        },
+        {
+            "part": "m",
+            "text": "God dag. Är det Efterlyst?"
+        },
+        {
+            "part": "1",
+            "text": "Ja."
+        },
+        {
+            "part": "m",
+            "text": "Ja, vad bra. Jag har ... jag har sak jag måste tala om förstår ni."
+        },
+        {
+            "part": "1",
+            "text": "Ja."
+        },
+        {
+            "part": "m",
+            "text": "Ni förstår. Jag har, vårt hus har blivit hemsökt av en så kallad tvättoman. Tror jag. Han, han. Si ... vi har förlorat massa tvätt. Eh, Siris städrock och bäddjacka, har försvunnit. Och nu kommer det stora: Mina flip flop."
+        },
+        {
+            "part": "1",
+            "text": "Vad sa du? [skrattar]"
+        },
+        {
+            "part": "m",
+            "text": "Mina flip flop-tofflor."
+        },
+        {
+            "part": "1",
+            "text": "Dina flip flop-tofflor? [skrattar]"
+        },
+        {
+            "part": "m",
+            "text": "Det ... har de ... tagit. Jag tänkte höra. Eh ... finns det något sånt här kriminellt element som eh har rymt. Kan det va han?"
+        },
+        {
+            "part": "1",
+            "text": "Jag vet faktiskt inte om det är något kriminellt element som har rymt."
+        },
+        {
+            "part": "m",
+            "text": "Jag såg ... jag såg en elektriker som såg misstänksam otäck ut. Han gick med en hink."
+        },
+        {
+            "part": "1",
+            "text": "Jaha ..."
+        },
+        {
+            "part": "m",
+            "text": "Jaa. Då tänkte jag. Han kan det va."
+        },
+        {
+            "part": "1",
+            "text": "Han kan det va."
+        },
+        {
+            "part": "m",
+            "text": "Ja. Jaha. Eh."
+        },
+        {
+            "part": "1",
+            "text": "Jaha."
+        },
+        {
+            "part": "m",
+            "text": "Si..."
+        },
+        {
+            "part": "1",
+            "text": "Vart ringer du ifrån?"
+        },
+        {
+            "part": "m",
+            "text": "Siri!"
+        },
+        {
+            "part": "1",
+            "text": "Va?"
+        },
+        {
+            "part": "m",
+            "text": "Ja ... jag har ... det ... ta det lugnt! Ja god dag! Magnus af Frodenkvist. God middag."
+        },
+        {
+            "part": "1",
+            "text": "God middag."
+        },
+        {
+            "part": "m",
+            "text": "God middag. Jaaa, det gällde den här tvättskurken."
+        },
+        {
+            "part": "1",
+            "text": "Ja just det."
+        },
+        {
+            "part": "m",
+            "text": "Har ni fått in nå andra, eh, anmälningar?"
+        },
+        {
+            "part": "1",
+            "text": "Näe, det har vi inte. Du har inget signalement på honom?"
+        },
+        {
+            "part": "m",
+            "text": "Jaa, tyckte det ... han verkade skum. Han va lite mörk och buskig sådär."
+        },
+        {
+            "part": "1",
+            "text": "Han va det ja?"
+        },
+        {
+            "part": "m",
+            "text": "Han hade ... nästan hopväxta ögonbryn."
+        },
+        {
+            "part": "1",
+            "text": "Jaha, ja det är skumt."
+        },
+        {
+            "part": "m",
+            "text": "Jaa. Mojlanen."
+        },
+        {
+            "part": "1",
+            "text": "Ja."
+        },
+        {
+            "part": "m",
+            "text": "Mjölnaren."
+        },
+        {
+            "part": "1",
+            "text": "Mjölnaren ja."
+        },
+        {
+            "part": "m",
+            "text": "Jaa."
+        },
+        {
+            "part": "1",
+            "text": "Jaha ..."
+        },
+        {
+            "part": "m",
+            "text": "Ja, nej jag får väl göra efterforskningar på egen hand. Jag sätter på mig min engelska jakthatt."
+        },
+        {
+            "part": "1",
+            "text": "Ja [skrattar]"
+        },
+        {
+            "part": "m",
+            "text": "Och går och letar spår."
+        },
+        {
+            "part": "1",
+            "text": "Ja men gör det! Gör det. Så kanske du dyker på elektrikern igen. Kan du ju höra med honom."
+        },
+        {
+            "part": "m",
+            "text": "Jag får säkert låna Siris förstoringsglas. Hon har ju den när hon läser annonserna i tidningen förstår du."
+        },
+        {
+            "part": "1",
+            "text": "Ja ja ... ja men det är bra. Då kanske du hittar några spår med hjälp av det."
+        },
+        {
+            "part": "m",
+            "text": "Fingeravtryck."
+        },
+        {
+            "part": "1",
+            "text": "Ja just det. Det är alltid bra å ha."
+        },
+        {
+            "part": "m",
+            "text": "Jag får göra så."
+        },
+        {
+            "part": "1",
+            "text": "Ja gör det!"
+        },
+        {
+            "part": "m",
+            "text": "Så får jag återkomma."
+        },
+        {
+            "part": "1",
+            "text": "Ja det är jättebra!"
+        },
+        {
+            "part": "m",
+            "text": "Jag skickar fakturan."
+        },
+        {
+            "part": "1",
+            "text": "[skrattar] ja ... okej."
+        },
+        {
+            "part": "m",
+            "text": "Magnus af Frodenkvist."
+        },
+        {
+            "part": "1",
+            "text": "Magnus af Frodenkvist."
+        },
+        {
+            "part": "m",
+            "text": "Glöm aldrig det."
+        },
+        {
+            "part": "1",
+            "text": "Nej jag glömmer aldrig."
+        },
+        {
+            "part": "m",
+            "text": "Adjökens."
+        },
+        {
+            "part": "1",
+            "text": "Hej hej."
+        }
+    ]
+}}
