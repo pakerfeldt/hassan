@@ -1,1 +1,102 @@
-{"name":"Meja","spotifyUri":"spotify:track:3y89wXWdzmHIR1gJhIwv56","youtubeUrl":"","albumName":"Williamspäron Vol 1","trackIndex":24,"transcription":{"parts":[],"dialog":[]}}
+{"name":"Meja","spotifyUri":"spotify:track:3y89wXWdzmHIR1gJhIwv56","youtubeUrl":"","albumName":"Williamspäron Vol 1","trackIndex":24,"transcription":{
+    "parts": [
+        {
+            "shortCode": "b",
+            "name": "Bengt Wallin"
+        },
+        {
+            "shortCode": "1",
+            "name": "Representant på skivbolaget"
+        }
+    ],
+    "dialog": [
+        {
+            "part": "1",
+            "text": "[presenterar sig] ???"
+        },
+        {
+            "part": "b",
+            "text": "Ja hej, Bengt Wallin heter jag."
+        },
+        {
+            "part": "1",
+            "text": "Hej"
+        },
+        {
+            "part": "b",
+            "text": "Jobbar på Svensk-Kinesiska vänskapsförbundet. Är det du som har hand om dom här \"Legacy of Sound\"?"
+        },
+        {
+            "part": "1",
+            "text": "Legacy of Sound, ja precis"
+        },
+        {
+            "part": "b",
+            "text": "Ok. Vi talade om det igår på mötet att en av artisterna i det bandet heter Meja..."
+        },
+        {
+            "part": "1",
+            "text": "Mmm"
+        },
+        {
+            "part": "b",
+            "text": "..och det för ju tankarna omedelbart till massakern på Himmelska fridens torg en 4:e Juni 89."
+        },
+        {
+            "part": "1",
+            "text": "eeh, jaha varför då?"
+        },
+        {
+            "part": "b",
+            "text": "Ja, där det mejades....och jag vet inte om det är så lämpligt, om man kunde byta det kanske?"
+        },
+        {
+            "part": "1",
+            "text": "Nu..är det här ett skämt eller?"
+        },
+        {
+            "part": "b",
+            "text": "Ånej, vi hade det upp på styrelsemötet och vi har några förslag på nytt namn."
+        },
+        {
+            "part": "1",
+            "text": "eehh, vem är det som..."
+        },
+        {
+            "part": "b",
+            "text": "Blomma skulle hon ju kunna heta för det symboliserar ju glädjen och freden... Jag kan skiva ner dom här förslagen och skicka dom till dig och så förväntar jag mig ett skriftligt svar?"
+        },
+        {
+            "part": "1",
+            "text": "Men alltså Meja är ju hennes namn."
+        },
+        {
+            "part": "b",
+            "text": "Ja, jag förstår det men i och med att ni lanserar henne som en stor artist och jag har hört att det här även kommer att gå utomlands så kommer det ju att bli väldigt konstiga funderingar och vi har....vi är ju dom som måste hantera den här kritiken sen också."
+        },
+        {
+            "part": "1",
+            "text": "Jaa..jag tror att det är helt svårt, jag tror det är väldigt svårt att få en person att ändra sitt namn?"
+        },
+        {
+            "part": "b",
+            "text": "Jaha, jag tycker vi ska komma fram till en lösning på något sätt. Jag skickar över dom här namnförslagen så får vi utgå från det."
+        },
+        {
+            "part": "1",
+            "text": "Ok!"
+        },
+        {
+            "part": "b",
+            "text": "Tack!"
+        },
+        {
+            "part": "1",
+            "text": "Tack!"
+        },
+        {
+            "part": "B",
+            "text": "Hej"
+        }
+    ]
+}}
