@@ -1,1 +1,82 @@
-{"name":"Baskaggen","spotifyUri":"spotify:track:0ugCgb70pDblhEx8H1C8TO","youtubeUrl":"","albumName":"Williamspäron Vol 1","trackIndex":12,"transcription":{"parts":[],"dialog":[]}}
+{"name":"Baskaggen","spotifyUri":"spotify:track:0ugCgb70pDblhEx8H1C8TO","youtubeUrl":"","albumName":"Williamspäron Vol 1","trackIndex":12,"transcription":{
+    "parts": [
+        {
+            "shortCode": "1",
+            "name": "Rikard"
+        },
+        {
+            "shortCode": "f",
+            "name": "Fredrik Lindström"
+        }
+    ],
+    "dialog": [
+        {
+            "part": "1",
+            "text": "Slagverket, Rikard."
+        },
+        {
+            "part": "f",
+            "text": "Tjena. Fredrik Lindström här."
+        },
+        {
+            "part": "1",
+            "text": "Tjena."
+        },
+        {
+            "part": "f",
+            "text": "Jag har ett Ludwig-set."
+        },
+        {
+            "part": "1",
+            "text": "Ah."
+        },
+        {
+            "part": "f",
+            "text": "Har lite problem. Tycker det sjunger mycket i min baskagge."
+        },
+        {
+            "part": "1",
+            "text": "Jaha?"
+        },
+        {
+            "part": "f",
+            "text": "Har svårt att dämpa upp den på rätt sätt. Jag vet inte om du har några tips?"
+        },
+        {
+            "part": "1",
+            "text": "Det finns ju såna här ringar som man kan sätta i."
+        },
+        {
+            "part": "f",
+            "text": "Vänta kan du få höra lite hur det låter, [spelar trummor]. Hör du att det sjunger i den?"
+        },
+        {
+            "part": "1",
+            "text": "Ah."
+        },
+        {
+            "part": "f",
+            "text": "Ah, vad tror du jag ska göra?"
+        },
+        {
+            "part": "1",
+            "text": "[drar en funderam suck] ah det finns ju såna här dämpringar asså. Som man kan sätta i på skinnen så att säga ... [avbryts av att Fredrik fortsätter spela]"
+        },
+        {
+            "part": "f",
+            "text": "[spelar och pratar samtidigt] Ah, det är lite, det är lite slappt liksom. [slutar spela] Men virveln låter okej va? Ah, vette fan men virveln låter bra tycker jag, lyssna! [fortsätter spela] Wooooh, det här, nu är det bra, lyssna! Oh! Ah wem. Ahhh hahaha! Woh! ... Ha ha ha ha! Woh! Äh jag, jag tycker den är helt okej nu fan baskaggen. Det ah eh det duger fan. Det får sjunga lite i den. Woh! Kom igen [skriker något otydligt]! ... Jejeje! ... [slutar spela]. Ah okej. Jag nöjer mig med den så. Bra."
+        },
+        {
+            "part": "1",
+            "text": "Ah."
+        },
+        {
+            "part": "f",
+            "text": "Du ska ha tack. Hejdå."
+        },
+        {
+            "part": "1",
+            "text": "Hej."
+        }
+    ]
+}}
