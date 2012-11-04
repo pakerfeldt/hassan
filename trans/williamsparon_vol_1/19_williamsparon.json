@@ -1,1 +1,380 @@
-{"name":"Williamspäron","spotifyUri":"spotify:track:4PjaiN0od66oDlOEEDgKRr","youtubeUrl":"","albumName":"Williamspäron Vol 1","trackIndex":19,"transcription":{"parts":[],"dialog":[]}}
+{"name":"Williamspäron","spotifyUri":"spotify:track:4PjaiN0od66oDlOEEDgKRr","youtubeUrl":"","albumName":"Williamspäron Vol 1","trackIndex":19,"transcription":{
+    "parts": [
+        {
+            "shortCode": "1",
+            "name": "Stockholms glasshus"
+        },
+        {
+            "shortCode": "f",
+            "name": "Fredrik Lindström som anonym"
+        }
+    ],
+    "dialog": [
+        {
+            "part": "1",
+            "text": "Stockholms glasshus."
+        },
+        {
+            "part": "f",
+            "text": "Jaa, hej! Är det glasshuset?"
+        },
+        {
+            "part": "1",
+            "text": "Japp."
+        },
+        {
+            "part": "f",
+            "text": "Japp. Du, vilket är er godaste sort?"
+        },
+        {
+            "part": "1",
+            "text": "Goaste? Vi har bara goa smaker."
+        },
+        {
+            "part": "f",
+            "text": "Bara goda smaker?"
+        },
+        {
+            "part": "1",
+            "text": "Det beror .. det beror på vad du tycker om själv."
+        },
+        {
+            "part": "f",
+            "text": "En favorit det är den här italiensk choklad."
+        },
+        {
+            "part": "1",
+            "text": "Det har vi."
+        },
+        {
+            "part": "f",
+            "text": "Vad tycker du om wienernougat?"
+        },
+        {
+            "part": "1",
+            "text": "Wienernougat. Ja det har vi inte idag."
+        },
+        {
+            "part": "f",
+            "text": "Den låg trea på min lista förra veckan."
+        },
+        {
+            "part": "1",
+            "text": "Ah men det har vi inte idag."
+        },
+        {
+            "part": "f",
+            "text": "Neej."
+        },
+        {
+            "part": "1",
+            "text": "Men det har vi många andra goda, schweizisk toffee."
+        },
+        {
+            "part": "f",
+            "text": "Vet du vilken som är etta på min lista?"
+        },
+        {
+            "part": "1",
+            "text": "Nej?"
+        },
+        {
+            "part": "f",
+            "text": "Eh, förra veckan va det citronsorbé."
+        },
+        {
+            "part": "1",
+            "text": "Ah, citronsorbé är ..."
+        },
+        {
+            "part": "f",
+            "text": "Men nu har williamspäron gått upp."
+        },
+        {
+            "part": "1",
+            "text": "Ja."
+        },
+        {
+            "part": "f",
+            "text": "Helt ... eh, kom från ingenstans."
+        },
+        {
+            "part": "1",
+            "text": "Nej, men williamspäron är gott."
+        },
+        {
+            "part": "f",
+            "text": "Den är jättesmarrig. Otroligt god. Däremot en jag är jättetrött på är den här cassata alltså."
+        },
+        {
+            "part": "1",
+            "text": "Cassata är också en höjdare. Det går inte å vittras [???] på den.",
+            "uncertain": true
+        },
+        {
+            "part": "f",
+            "text": "Äh jag tycker ... jag är jättetrött på den."
+        },
+        {
+            "part": "1",
+            "text": "[pratar i munnen på Fredrik] Min herre. Jag har en kund här ..."
+        },
+        {
+            "part": "f",
+            "text": "Ahh ..."
+        },
+        {
+            "part": "1",
+            "text": "Kan jag hjälpa dig med något?"
+        },
+        {
+            "part": "f",
+            "text": "Ah, du! Det kan du göra, vänta lite."
+        },
+        {
+            "part": "1",
+            "text": "Eller vill du ska jag ringa upp."
+        },
+        {
+            "part": "f",
+            "text": "Nej! Nej. Nej, nej. Du kan hjälpa mig med en sak. Eh, vit choklad, tycker jag är en jättegod sort."
+        },
+        {
+            "part": "1",
+            "text": "Ah, det har jag inte idag. Men det har vi irish crisp med vit choklad och nougat."
+        },
+        {
+            "part": "f",
+            "text": "Ah, den gillar jag inte alls. Den tycker jag är eh ... jätteäcklig faktiskt."
+        },
+        {
+            "part": "1",
+            "text": "Aha ..."
+        },
+        {
+            "part": "f",
+            "text": "Men pistage är jag svag för."
+        },
+        {
+            "part": "1",
+            "text": "Pistage har vi."
+        },
+        {
+            "part": "f",
+            "text": "Den låg, den låg tvåa på min lista och sen så gick den ner till en sjätteplats. Plötsligt."
+        },
+        {
+            "part": "1",
+            "text": "Aj aj aj, varför då?"
+        },
+        {
+            "part": "f",
+            "text": "Ja, jag vet inte. Kanske ätit lite för mycket, eller nånting."
+        },
+        {
+            "part": "1",
+            "text": "Ja, det är mycket möjligt."
+        },
+        {
+            "part": "f",
+            "text": "Okej ..."
+        },
+        {
+            "part": "1",
+            "text": "Men annars, eh ja!"
+        },
+        {
+            "part": "f",
+            "text": "Pekannöt tycker jag är rätt så god."
+        },
+        {
+            "part": "1",
+            "text": "Det är gott ja!"
+        },
+        {
+            "part": "f",
+            "text": "Den är inte dum [skrattar till]. Du! Men ..."
+        },
+        {
+            "part": "1",
+            "text": "Du är välkommen min herre."
+        },
+        {
+            "part": "f",
+            "text": "Ah, vad bra, du! Vänta lite bara. Tutti frutti. Vad säger du om den?"
+        },
+        {
+            "part": "1",
+            "text": "Det har jag inte."
+        },
+        {
+            "part": "f",
+            "text": "Nej. Den har gått ner från en andra plats till en femte."
+        },
+        {
+            "part": "1",
+            "text": "Oj oj oj."
+        },
+        {
+            "part": "f",
+            "text": "Så att eh. Men så har jag några bubblare. Sabayonne. Den kallar jag för en ..."
+        },
+        {
+            "part": "1",
+            "text": "Sabayonne är en riktig höjdare."
+        },
+        {
+            "part": "f",
+            "text": "Den kallar jag för ägglikör."
+        },
+        {
+            "part": "1",
+            "text": "[pratar i munnen på Fredrik] Ägglikör är alltid gott."
+        },
+        {
+            "part": "f",
+            "text": "Ägglikör! Precis. Och den tror jag kommer gå upp högt på listan."
+        },
+        {
+            "part": "1",
+            "text": "Jah."
+        },
+        {
+            "part": "f",
+            "text": "Okej. Men du ska ha jättestort tack!"
+        },
+        {
+            "part": "1",
+            "text": "Varsågod!"
+        },
+        {
+            "part": "f",
+            "text": "Du! Midsommardröm."
+        },
+        {
+            "part": "1",
+            "text": "Den är också god."
+        },
+        {
+            "part": "f",
+            "text": "Ah."
+        },
+        {
+            "part": "1",
+            "text": "Men om man tycker om så många frukter i det."
+        },
+        {
+            "part": "f",
+            "text": "Ah, och romrussin."
+        },
+        {
+            "part": "1",
+            "text": "Romrussin är också gott."
+        },
+        {
+            "part": "f",
+            "text": "Du, ska jag skriva sabayonne eller ägglikör? Vilket är det riktiga namnet?"
+        },
+        {
+            "part": "1",
+            "text": "Sabayonne."
+        },
+        {
+            "part": "f",
+            "text": "Sabayonne."
+        },
+        {
+            "part": "1",
+            "text": "Ah just det."
+        },
+        {
+            "part": "f",
+            "text": "Okej men du. Då skriver jag här. Den ligger fyra. Faktiskt."
+        },
+        {
+            "part": "1",
+            "text": "Jah!"
+        },
+        {
+            "part": "f",
+            "text": "Okej. Precis efter blåbärsrippel [???].",
+            "uncertain": true
+        },
+        {
+            "part": "1",
+            "text": "Åh-kej. Du är välkommen min herre!"
+        },
+        {
+            "part": "f",
+            "text": "Okej, du men du, tack ska du ha ..."
+        },
+        {
+            "part": "1",
+            "text": "jag är tyvärr, jag har två, tre kunder nu som måste, ta de."
+        },
+        {
+            "part": "f",
+            "text": "Men det är inte den här mörka?"
+        },
+        {
+            "part": "1",
+            "text": "[pratar i munnen på Fredrik] Jag är ensam just nu. Du kan ringa lite senare då har jag lite mera tid. Om du vill kan jag ringa upp dig."
+        },
+        {
+            "part": "f",
+            "text": "Ja, men du. Cassatan då? Är den, är det inte för mycket småbitar."
+        },
+        {
+            "part": "1",
+            "text": "Det är ... stor höjdare. Den enda cassatan som går att äta är den här cassata i Sverige."
+        },
+        {
+            "part": "f",
+            "text": "Är det den enda?"
+        },
+        {
+            "part": "1",
+            "text": "Ah just det."
+        },
+        {
+            "part": "f",
+            "text": "Och den är så god."
+        },
+        {
+            "part": "1",
+            "text": "Ja."
+        },
+        {
+            "part": "f",
+            "text": "Jag ska sätta upp den, den går upp som trea. Direkt bara. Bara för att du sa det. Bara för att du sa det."
+        },
+        {
+            "part": "1",
+            "text": "[pratar i munnen på Fredrik] Det ska vara en etta egentligen. Ursäkta, han blir otålig min herre här här inne i."
+        },
+        {
+            "part": "f",
+            "text": "Okej, vi slutar nu. Men, eh, williamspäron. Den är smarrig."
+        },
+        {
+            "part": "1",
+            "text": "Ja, den är också."
+        },
+        {
+            "part": "f",
+            "text": "Ja, okej."
+        },
+        {
+            "part": "1",
+            "text": "Hej hej."
+        },
+        {
+            "part": "f",
+            "text": "Tack ska du ha."
+        },
+        {
+            "part": "1",
+            "text": "Hej hej."
+        }
+    ]
+}}
