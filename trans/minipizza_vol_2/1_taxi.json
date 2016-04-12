@@ -1,1 +1,165 @@
-{"name":"Taxi","spotifyUri":"spotify:track:5FpV8rs48jQzaybE1MLDfN","youtubeUrl":"","albumName":"Minipizza Vol 2","trackIndex":1,"transcription":{"parts":[],"dialog":[]}}
+{"name":"Taxi","spotifyUri":"spotify:track:5FpV8rs48jQzaybE1MLDfN","youtubeUrl":"","albumName":"Minipizza Vol 2","trackIndex":1,"transcription":{
+  "parts":[
+      {
+          "shortCode": "k",
+          "name": "Kristian Luuk"
+      },
+      {
+          "shortCode": "1",
+          "name": "Telefonist hos taxifirma"
+      }
+    ],
+    "dialog":[
+      {
+        "part" : "k",
+        "text" : "Godmorgon. Är det hos taxin?",
+        "start" : 0,
+        "duration" : 1500
+      },
+      {
+        "part" : "1",
+        "text" : "Ja, det är det.",
+        "start" : 1600,
+        "duration" : 300
+      },
+      {
+        "part" : "k",
+        "text" : "Hej, jag sk... heter Kristian Luuk. Jag skulle vilja förbeställa en bil till i eftermiddag.",
+        "start" : 2100,
+        "duration" : 3400
+      },
+      {
+        "part" : "1",
+        "text" : "Ja, vilken tid?",
+        "start" : 5500,
+        "duration" : 400
+      },
+      {
+        "part" : "k",
+        "text" : "14.30.",
+        "start" : 6400,
+        "duration" : 7000
+      },
+      {
+        "part" : "1",
+        "text" : "Från?",
+        "start" : 0,
+        "duration" : 0
+      },
+      {
+        "part" : "k",
+        "text" : "Från Odengatan 54",
+        "start" : 0,
+        "duration" : 0
+      },
+      {
+        "part" : "1",
+        "text" : "Ah, färden går till?",
+        "start" : 0,
+        "duration" : 0
+      },
+      {
+        "part" : "k",
+        "text" : "Den går till Hammarbyhamnen",
+        "start" : 0,
+        "duration" : 0
+      },
+      {
+        "part" : "1",
+        "text" : "Mmm. Betalar du kontant?",
+        "start" : 0,
+        "duration" : 0
+      },
+      {
+        "part" : "k",
+        "text" : "Det kommer jag att göra.",
+        "start" : 0,
+        "duration" : 0
+      },
+      {
+        "part" : "1",
+        "text" : "Mmm. Åh, vad sa du att efternamnet va?",
+        "start" : 0,
+        "duration" : 0
+      },
+      {
+        "part" : "k",
+        "text" : "Luuk. L-U-U-U-K.",
+        "start" : 0,
+        "duration" : 0
+      },
+      {
+        "part" : "1",
+        "text" : "Mmm.",
+        "start" : 0,
+        "duration" : 0
+      },
+      {
+        "part" : "k",
+        "text" : "Jag har instruktioner till föraren.",
+        "start" : 0,
+        "duration" : 0
+      },
+      {
+        "part" : "1",
+        "text" : "Jaha ... hur då menar du?",
+        "start" : 0,
+        "duration" : 0
+      },
+      {
+        "part" : "k",
+        "text" : "Eh, lite detaljer bara, eh. Vänta utanför banken 14.30 som sagt. Håll motorn igång.",
+        "start" : 0,
+        "duration" : 0
+      },
+      {
+        "part" : "1",
+        "text" : "[knappar på tangentbord] Mhm.",
+        "start" : 0,
+        "duration" : 0
+      },
+      {
+        "part" : "k",
+        "text" : "14:31 kommer jag utrusande med ett handbagage.",
+        "start" : 0,
+        "duration" : 0
+      },
+      {
+        "part" : "1",
+        "text" : "[slutar skriva på tangentbord] Jaha.",
+        "start" : 0,
+        "duration" : 0
+      },
+      {
+        "part" : "k",
+        "text" : "Och när dörren går igen. Tryck på gasen i botten. Och sen åker vi till Hammarbyhamnen, där väntar en annan bil.",
+        "start" : 0,
+        "duration" : 0
+      },
+      {
+        "part" : "1",
+        "text" : "Jaha, vi ska vänta utanför banken alltså med motorn igång, 14:30.",
+        "start" : 0,
+        "duration" : 0
+      },
+      {
+        "part" : "k",
+        "text" : "Just det.",
+        "start" : 0,
+        "duration" : 0
+      },
+      {
+        "part" : "1",
+        "text" : "Ha, eh tack hej.",
+        "start" : 0,
+        "duration" : 0
+      },
+      {
+        "part" : "k",
+        "text" : "Hej.",
+        "start" : 0,
+        "duration" : 0
+      }
+    ]
+  }
+}

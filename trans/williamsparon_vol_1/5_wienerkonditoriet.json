@@ -1,1 +1,110 @@
-{"name":"Wienerkonditoriet","spotifyUri":"spotify:track:0Cii8BE8ArVJIKUuwDAL50","youtubeUrl":"","albumName":"Williamspäron Vol 1","trackIndex":5,"transcription":{"parts":[],"dialog":[]}}
+{"name":"Wienerkonditoriet","spotifyUri":"spotify:track:0Cii8BE8ArVJIKUuwDAL50","youtubeUrl":"","albumName":"Williamspäron Vol 1","trackIndex":5,"transcription":{
+    "parts": [
+        {
+            "shortCode": "1",
+            "name": "Sussie"
+        },
+        {
+            "shortCode": "f",
+            "name": "Fredrik Lindström"
+        }
+    ],
+    "dialog": [
+        {
+            "part": "1",
+            "text": "Wienerkonditoriet, Sussie."
+        },
+        {
+            "part": "f",
+            "text": "Hej. Eh, jag var lite intresserad av någon tårta till en bemärkelsedag. Skulle man kunna beställa någonting i förväg?"
+        },
+        {
+            "part": "1",
+            "text": "Jaa."
+        },
+        {
+            "part": "f",
+            "text": "Det går bra?"
+        },
+        {
+            "part": "1",
+            "text": "Jaa."
+        },
+        {
+            "part": "f",
+            "text": "Ah. Jag skulle vilja ha någon sån här med marzipan men inte prinsesstårta. Har du någonting? Nån annan?"
+        },
+        {
+            "part": "1",
+            "text": "Nej, inte med marzipan."
+        },
+        {
+            "part": "f",
+            "text": "Nehej, vad har du mer ... i övrigt då utan marzipan."
+        },
+        {
+            "part": "1",
+            "text": "Sen har jag frukttårta. Jag har apelsinfromage"
+        },
+        {
+            "part": "f",
+            "text": "Ja [stönande skratt]"
+        },
+        {
+            "part": "1",
+            "text": "Chokladmousse."
+        },
+        {
+            "part": "f",
+            "text": "Chokladmousse?"
+        },
+        {
+            "part": "1",
+            "text": "Ja. Hjortrontårta."
+        },
+        {
+            "part": "f",
+            "text": "Är den god med chokladmousse? Är den ... lite speciell?"
+        },
+        {
+            "part": "1",
+            "text": "Den är god. Det är chokladmousse och mandelbottnar och så riven choklad över."
+        },
+        {
+            "part": "f",
+            "text": "Ah, okej. Du eh ... eh, ah. Men vad sa du mer? Nougat. Hade du nånting med det?"
+        },
+        {
+            "part": "1",
+            "text": "Nej."
+        },
+        {
+            "part": "f",
+            "text": "Vad va det för nånting? Frukttårta hade du nån!"
+        },
+        {
+            "part": "1",
+            "text": "Frukttårta har jag med sockerkaka och vaniljkräm."
+        },
+        {
+            "part": "f",
+            "text": "Jag sitter här och onanerar lite [skratt] ..."
+        },
+        {
+            "part": "1",
+            "text": "Jaha?"
+        },
+        {
+            "part": "f",
+            "text": "... medans vi pratar."
+        },
+        {
+            "part": "1",
+            "text": "Trevligt."
+        },
+        {
+            "part": "f",
+            "text": "Tack ska du ha. Hejdå."
+        }
+    ]
+}}

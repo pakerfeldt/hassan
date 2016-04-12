@@ -1,1 +1,86 @@
-{"name":"Honken","spotifyUri":"spotify:track:6pXWDvRMEKeaz2kB9N1z03","youtubeUrl":"","albumName":"Budapeststubbe Vol 3","trackIndex":11,"transcription":{"parts":[],"dialog":[]}}
+{"name":"Honken","spotifyUri":"spotify:track:6pXWDvRMEKeaz2kB9N1z03","youtubeUrl":"","albumName":"Budapeststubbe Vol 3","trackIndex":11,"transcription":{
+    "parts": [
+        {
+            "shortCode": "h",
+            "name": "Henrik Schyffert som anonym"
+        },
+        {
+            "shortCode": "1",
+            "name": "Anneli på Nyheterna"
+        }
+    ],
+    "dialog": [
+        {
+            "part": "1",
+            "text": "Nyheterna, Anneli"
+        },
+        {
+            "part": "1",
+            "text": "Jaha?"
+        },
+        {
+            "part": "h",
+            "text": "Jag har sett under veckan att ni har gjort stora avslöjanden om spionen Stig Bergling"
+        },
+        {
+            "part": "1",
+            "text": "Jaa?"
+        },
+        {
+            "part": "h",
+            "text": "Jag vet var Honken är"
+        },
+        {
+            "part": "1",
+            "text": "[Skratt] Va?"
+        },
+        {
+            "part": "h",
+            "text": "Du vet hockeymålvakten.."
+        },
+        {
+            "part": "1",
+            "text": "Ja"
+        },
+        {
+            "part": "h",
+            "text": "..Leif \"Honken\".."
+        },
+        {
+            "part": "1",
+            "text": "Ja, Vill du prata?"
+        },
+        {
+            "part": "h",
+            "text": "Han har varit borta i massa år men jag vet att han bor i Johanneshov. Jag vill inte tala om vad jag heter"
+        },
+        {
+            "part": "1",
+            "text": "Okej [suckar] ... Eh.."
+        },
+        {
+            "part": "h",
+            "text": "H O N K E N"
+        },
+        {
+            "part": "1",
+            "text": "Mmm jag ska framföra det."
+        },
+        {
+            "part": "h",
+            "text": "Där har ni ett scoop!"
+        },
+        {
+            "part": "1",
+            "text": "Okej"
+        },
+        {
+            "part": "h",
+            "text": "Hej!"
+        },
+        {
+            "part": "1",
+            "text": "Hej"
+        }
+    ]
+}}

@@ -1,1 +1,126 @@
-{"name":"Sheraton, Kairo","spotifyUri":"spotify:track:7x44fIJrXfyRHk7bKONQGG","youtubeUrl":"","albumName":"Williamspäron Vol 1","trackIndex":11,"transcription":{"parts":[],"dialog":[]}}
+{"name":"Sheraton, Kairo","spotifyUri":"spotify:track:7x44fIJrXfyRHk7bKONQGG","youtubeUrl":"","albumName":"Williamspäron Vol 1","trackIndex":11,"transcription":{
+    "parts": [
+        {
+            "shortCode": "1",
+            "name": "Sheraton"
+        },
+        {
+            "shortCode": "k",
+            "name": "Kristian Luuk som pizzabagare"
+        }
+    ],
+    "dialog": [
+        {
+            "part": "1",
+            "text": "[???] ... can I help you?",
+            "uncertain": true
+        },
+        {
+            "part": "k",
+            "text": "Hello. Is this the Sheraton hotel in Kairo?"
+        },
+        {
+            "part": "1",
+            "text": "Yes, sir."
+        },
+        {
+            "part": "k",
+            "text": "Hi. I'm calling from La Prima Pizzeria in Bredäng out of Sweden in Stockholm. And we have a spec... we have a special offer this week on a choice free pizza and a small sallad for 49 kronor only."
+        },
+        {
+            "part": "1",
+            "text": "[tystnad] ... you will have pizza from here? From the Kairo Sheraton?"
+        },
+        {
+            "part": "k",
+            "text": "No no no no. We have it at La Prima Pizzeria in Bredäng out of Stockholm, Sweden."
+        },
+        {
+            "part": "1",
+            "text": "Could you give me again, please, the ah ehh ... wha, what's binning [???].",
+            "uncertain": true
+        },
+        {
+            "part": "k",
+            "text": "[suck] The pizzeria name is La Prima Pizzeria."
+        },
+        {
+            "part": "1",
+            "text": "La ... La Prima Pizzeria ... okay ..."
+        },
+        {
+            "part": "k",
+            "text": "And choice free pizza, small sallad."
+        },
+        {
+            "part": "1",
+            "text": "Yes."
+        },
+        {
+            "part": "k",
+            "text": "49 kronor. Swedish kronor."
+        },
+        {
+            "part": "1",
+            "text": "49 ... okay ... I will, I will tell our guests, sir."
+        },
+        {
+            "part": "k",
+            "text": "Thank you very much."
+        },
+        {
+            "part": "1",
+            "text": "You're welcome."
+        },
+        {
+            "part": "k",
+            "text": "Thank you."
+        },
+        {
+            "part": "1",
+            "text": "Bye."
+        },
+        {
+            "part": "k",
+            "text": "[Ringer upp igen senare]"
+        },
+        {
+            "part": "1",
+            "text": "Reservation of the noomi help you?",
+            "uncertain": true
+        },
+        {
+            "part": "k",
+            "text": "Yes hello! I called a few minutes ago from La Prima Pizzeria in Bredäng, Stockholm. And I have to point out that this does not include the special price pizzas. The special pizzas as the la prima or the flygande flopp with bearnaise sause."
+        },
+        {
+            "part": "1",
+            "text": "Can, hold on.",
+            "uncertain": true
+        },
+        {
+            "part": "k",
+            "text": "This is not included in the 49 kronor. I only wanted to forward that so you know. Okay!"
+        },
+        {
+            "part": "1",
+            "text": "Eh ... you want to make a reservation for a room?"
+        },
+        {
+            "part": "k",
+            "text": "No. I am informing about, if your, any of your guests are dropping by in Sweden you should know where to eat pizza. Okay!"
+        },
+        {
+            "part": "1?",
+            "text": "[otydligt mummel]"
+        },
+        {
+            "part": "k",
+            "text": "Thank you! Good bye!"
+        },
+        {
+            "part": "1",
+            "text": "Bye bye"
+        }
+    ]
+}}

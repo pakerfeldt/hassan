@@ -1,1 +1,142 @@
-{"name":"Bukowskis","spotifyUri":"spotify:track:2MN849egUmISRtLEkPTEEg","youtubeUrl":"","albumName":"Williamspäron Vol 1","trackIndex":15,"transcription":{"parts":[],"dialog":[]}}
+{"name":"Bukowskis","spotifyUri":"spotify:track:2MN849egUmISRtLEkPTEEg","youtubeUrl":"","albumName":"Williamspäron Vol 1","trackIndex":15,"transcription":{
+    "parts": [
+        {
+            "shortCode": "1",
+            "name": "Mona Månsson"
+        },
+        {
+            "shortCode": "h",
+            "name": "Henrik Schyffert"
+        }
+    ],
+    "dialog": [
+        {
+            "part": "1",
+            "text": "Bukowskis, Mona Månsson."
+        },
+        {
+            "part": "h",
+            "text": "Hej! Mitt namn är Henrik Schyffert."
+        },
+        {
+            "part": "1",
+            "text": "Hej!"
+        },
+        {
+            "part": "h",
+            "text": "Jag jobbar som promotor och har ett visst stall med artister under mitt paraply här i Stockholm."
+        },
+        {
+            "part": "1",
+            "text": "Ja."
+        },
+        {
+            "part": "h",
+            "text": "Nu är det så att vi har några artister som vi känner har gjort sitt och undrar om vi skulle kunna auktionera ut dem till andra promotors i Sverige. Om ni skulle kunna hjälpa med det."
+        },
+        {
+            "part": "1",
+            "text": "Till andra ...?"
+        },
+        {
+            "part": "h",
+            "text": "Alltså, människor som skulle kunna vilja ta hand om dem. Du förstår, vi har ... Ted Åström här har vi, som vi inte haft någon användning av under de sista åren och undrar om ni skulle kunna vilja auktionera ut honom?"
+        },
+        {
+            "part": "1",
+            "text": "Eh, nu förstår jag inte ... är det målningar du talar om?"
+        },
+        {
+            "part": "h",
+            "text": "Nej. Utan det är han själv."
+        },
+        {
+            "part": "1",
+            "text": "Ja men vi auktionerar inte ut personer."
+        },
+        {
+            "part": "h",
+            "text": "Nej men han är ju mer ett namn så, om man, 15 tusen ... är han väl värd? Ted, olyckan var han, Ted Åström [tystnad] ... Kommer ni ihåg honom?"
+        },
+        {
+            "part": "1",
+            "text": "Vad sa du?"
+        },
+        {
+            "part": "h",
+            "text": "Han var olyckan i Lasse, han var med och gjorde massa Janne Haldorff-filmer också."
+        },
+        {
+            "part": "1",
+            "text": "Jaja. Men du förstår att vi, det här är Bukowskis som säljer tavlor, möbler, glas, porslin."
+        },
+        {
+            "part": "h",
+            "text": "Inte komiker?"
+        },
+        {
+            "part": "1",
+            "text": "Nix."
+        },
+        {
+            "part": "h",
+            "text": "Nej nej ..."
+        },
+        {
+            "part": "1",
+            "text": "[skrattar] Tyvärr inte."
+        },
+        {
+            "part": "h",
+            "text": "10 då?"
+        },
+        {
+            "part": "1",
+            "text": "Tier?"
+        },
+        {
+            "part": "h",
+            "text": "10 tusen?"
+        },
+        {
+            "part": "1",
+            "text": "Nej men vi, vi auktionerar [blir avbruten]"
+        },
+        {
+            "part": "h",
+            "text": "Nej förlåt! Ni gjorde inte det nej."
+        },
+        {
+            "part": "1",
+            "text": "Nej tyvärr."
+        },
+        {
+            "part": "h",
+            "text": "Nej, förlåt, jag ber om ursäkt!"
+        },
+        {
+            "part": "1",
+            "text": "[skrattar]"
+        },
+        {
+            "part": "h",
+            "text": "Men då vet jag det."
+        },
+        {
+            "part": "1",
+            "text": "Okej."
+        },
+        {
+            "part": "h",
+            "text": "Tack för hjälpen!"
+        },
+        {
+            "part": "1",
+            "text": "Hej."
+        },
+        {
+            "part": "h",
+            "text": "Hej."
+        }
+    ]
+}}

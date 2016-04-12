@@ -1,1 +1,146 @@
-{"name":"Är Det Fel På Bilen?","spotifyUri":"spotify:track:15Opqn0kR6z7ZIqiEsD780","youtubeUrl":"","albumName":"Williamspäron Vol 1","trackIndex":3,"transcription":{"parts":[],"dialog":[]}}
+{"name":"Är Det Fel På Bilen?","spotifyUri":"spotify:track:15Opqn0kR6z7ZIqiEsD780","youtubeUrl":"","albumName":"Williamspäron Vol 1","trackIndex":3,"transcription":{
+    "parts": [
+        {
+            "shortCode": "1",
+            "name": "Matte"
+        },
+        {
+            "shortCode": "s",
+            "name": "Sören"
+        },
+        {
+            "shortCode": "g",
+            "name": "Gerard"
+        }
+    ],
+    "dialog": [
+        {
+            "part": "1",
+            "text": "Skällsta Bilverkstad, Matte."
+        },
+        {
+            "part": "s",
+            "text": "Ah, tjena du. Vahettre. Jag har en folka, en 1303s. En 73a."
+        },
+        {
+            "part": "1",
+            "text": "Mmm."
+        },
+        {
+            "part": "s",
+            "text": "Åh, vahettre. Det är det här med värmen vettu. De har ju fastnat de här spjällen dära."
+        },
+        {
+            "part": "1",
+            "text": "Ah."
+        },
+        {
+            "part": "s",
+            "text": "Så värmen är ju på hela tiden."
+        },
+        {
+            "part": "1",
+            "text": "Aja."
+        },
+        {
+            "part": "s",
+            "text": "Men ... eh, vahettre. Jag tänkte om om eh ... e det, e det någon idé å laga liksom för att det. Alla säger till mig bara skrota hela tiden men den går ju som en klocka annars liksom."
+        },
+        {
+            "part": "1",
+            "text": "Näe. Det är väl bara vajern ..."
+        },
+        {
+            "part": "g",
+            "text": "Hallå? Oj ..."
+        },
+        {
+            "part": "s",
+            "text": "Ah vänta. Du får lägga på Gerard! Jag sitter i telefon!"
+        },
+        {
+            "part": "g",
+            "text": "Oj. Åh förlåt. Vänta. Aja, jag ska lägga på."
+        },
+        {
+            "part": "s",
+            "text": "Lägg på. Jag pratar med bilverkstan."
+        },
+        {
+            "part": "g",
+            "text": "Jaha? B-b-b-bilverkstan? Ska du ... Vad är det nu? Är det fel på bilen?"
+        },
+        {
+            "part": "s",
+            "text": "Ja, ja ringer om bilen. Gerard, du får lägga på."
+        },
+        {
+            "part": "g",
+            "text": "Ah, hej. Hej bilverkstan. Jag ska lägga på, jag bara råkade lyfta luren. Förlåt mig, ah."
+        },
+        {
+            "part": "s",
+            "text": "Mmm. Jättebra Gerard."
+        },
+        {
+            "part": "g",
+            "text": "Puss puss! Hejdå!"
+        },
+        {
+            "part": "s",
+            "text": "Puss puss."
+        },
+        {
+            "part": "g",
+            "text": "Ah. Ah, jag älskar den killen, kan jag säga. Jättehärlig här han. Killen. Sören. Toppen-fin. Hejdå. Hejdå."
+        },
+        {
+            "part": "s",
+            "text": "Gerard, du får ... Matte. Du heter Matte va?"
+        },
+        {
+            "part": "1",
+            "text": "Mmm."
+        },
+        {
+            "part": "s",
+            "text": "Ja, nej men alltså. Vad jag undrar är om du tror att det är någon idé att jag kör ner."
+        },
+        {
+            "part": "1",
+            "text": "Ah, inte fan kan du väl skrota bara för värmevajern har gått av inte."
+        },
+        {
+            "part": "s",
+            "text": "Nej, men det är det jag tänker hela tiden."
+        },
+        {
+            "part": "1",
+            "text": "Ah ..."
+        },
+        {
+            "part": "g",
+            "text": "Jätteledsen att jag kom in på linjen och verkar snoka och sådär. Jag är lite svartsjuk bara och ville kolla vem han pratar med och sådär. Hejdå."
+        },
+        {
+            "part": "1",
+            "text": "[skrattar] Ja ..."
+        },
+        {
+            "part": "s",
+            "text": "Ja, han är inte klok. Men du vet hur det är liksom. You can't live with them, you can't live without them, som man säger. Okej, men jag kommer ner i eftermiddag."
+        },
+        {
+            "part": "1",
+            "text": "Gör det."
+        },
+        {
+            "part": "s",
+            "text": "Vi hörs. Hejdå."
+        },
+        {
+            "part": "1",
+            "text": "Hej."
+        }
+    ]
+}}

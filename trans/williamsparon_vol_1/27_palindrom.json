@@ -1,4 +1,4 @@
-{"name":"Palindrom","spotifyUri":"spotify:track:56EvnBF2pyXzolUMa9cChB","youtubeUrl":"xCQYxGJk_Z4","albumName":"Williamspäron Vol 1","trackIndex":27,"transcription":{{
+{"name":"Palindrom","spotifyUri":"spotify:track:56EvnBF2pyXzolUMa9cChB","youtubeUrl":"xCQYxGJk_Z4","albumName":"Williamspäron Vol 1","trackIndex":27,"transcription":{
     "parts": [
         {
             "shortCode": "h",
@@ -91,4 +91,4 @@
             "text": "Hej!"
         }
     ]
-}}}
+}}

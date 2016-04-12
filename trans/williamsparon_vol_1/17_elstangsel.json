@@ -1,1 +1,94 @@
-{"name":"Elstängsel","spotifyUri":"spotify:track:7alvlS8a9e63EX4xacugyB","youtubeUrl":"","albumName":"Williamspäron Vol 1","trackIndex":17,"transcription":{"parts":[],"dialog":[]}}
+{"name":"Elstängsel","spotifyUri":"spotify:track:7alvlS8a9e63EX4xacugyB","youtubeUrl":"","albumName":"Williamspäron Vol 1","trackIndex":17,"transcription":{
+    "parts": [
+        {
+            "shortCode": "1",
+            "name": "Katrin, Sitting Bull"
+        },
+        {
+            "shortCode": "h",
+            "name": "Henrik, Vajer AB"
+        }
+    ],
+    "dialog": [
+        {
+            "part": "1",
+            "text": "Sitting Bull, Katrin."
+        },
+        {
+            "part": "h",
+            "text": "Är det daghemmet Sitting Bull?"
+        },
+        {
+            "part": "1",
+            "text": "Ja det är det."
+        },
+        {
+            "part": "h",
+            "text": "Ja, hejsan. Jag heter Henrik och ringer från Vajer AB."
+        },
+        {
+            "part": "1",
+            "text": "Hej."
+        },
+        {
+            "part": "h",
+            "text": "Vi har ett parti på ... 800 meter som är elstängsel som eh vi försöker få iväg här."
+        },
+        {
+            "part": "1",
+            "text": "Elstängsel?"
+        },
+        {
+            "part": "h",
+            "text": "Elstängsel ja! Som man kan ... ju ... runt kök och eh lådor och även om ni har en gård."
+        },
+        {
+            "part": "1",
+            "text": "Jaha. Oj, det är nog lite fel tajmat tror jag för [skrattar till] vi är nämligen på väg å flytta så vi kommer ha nya lokaler i höst."
+        },
+        {
+            "part": "h",
+            "text": "Jo men det är väldigt bra för då har vi ju tid å göra ordning det där för, om vi, om ni säger att ni har en gård va."
+        },
+        {
+            "part": "1",
+            "text": "Ja?"
+        },
+        {
+            "part": "h",
+            "text": "Och eh, det finns områden där det är farligt för barnen å va då kan man sätta upp det där. Och så kommer de dit så får de en kyss."
+        },
+        {
+            "part": "1",
+            "text": "Oh hjälp!"
+        },
+        {
+            "part": "h",
+            "text": "Så kommer de ju aldrig ... du vet, då förstår de att det är fel å gå dit ..."
+        },
+        {
+            "part": "1",
+            "text": "Ah men det ..."
+        },
+        {
+            "part": "h",
+            "text": "De små liven."
+        },
+        {
+            "part": "1",
+            "text": "Ah, nej då tror jag hellre att vi lär våra barn att, att de inte ska gå där. Eh, så får ni försöka sälja det staketet till någon annan istället."
+        },
+        {
+            "part": "h",
+            "text": "Ah okej."
+        },
+        {
+            "part": "1",
+            "text": "Men tack så mycket för påringningen. Hej!"
+        },
+        {
+            "part": "h",
+            "text": "Tack så mycket, hej."
+        }
+    ]
+}}
