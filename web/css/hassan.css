@@ -1,0 +1,39 @@
+div#main {
+  margin: auto;
+  width: 40%;
+  padding: 10px;
+}
+
+div#track-wrapper {
+  width: 50%; margin: 0 auto;
+}
+
+div#track-name {
+  text-align: center;
+}
+
+div#dialog {
+
+}
+
+.dialog-left,
+.dialog-right {
+  background-color: #eee;
+  border-radius: 5px;
+  padding: 10px;
+  display: block;
+  margin: 10px 0px;
+  max-width: 400px;
+}
+
+.dialog-left {
+  float: left;
+  clear: both;
+  text-align: left;
+}
+
+.dialog-right {
+  float: right;
+  clear: both;
+  text-align: right;
+}
