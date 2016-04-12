@@ -32,79 +32,79 @@
         "part" : "1",
         "text" : "Ja, vilken tid?",
         "start" : 5500,
-        "duration" : 400,
+        "duration" : 400
       },
       {
         "part" : "k",
         "text" : "14.30.",
         "start" : 6400,
-        "duration" : 7000,
+        "duration" : 7000
       },
       {
         "part" : "1",
         "text" : "Från?",
         "start" : 0,
-        "duration" : 0,
+        "duration" : 0
       },
       {
         "part" : "k",
         "text" : "Från Odengatan 54",
         "start" : 0,
-        "duration" : 0,
+        "duration" : 0
       },
       {
         "part" : "1",
         "text" : "Ah, färden går till?",
         "start" : 0,
-        "duration" : 0,
+        "duration" : 0
       },
       {
         "part" : "k",
         "text" : "Den går till Hammarbyhamnen",
         "start" : 0,
-        "duration" : 0,
+        "duration" : 0
       },
       {
         "part" : "1",
         "text" : "Mmm. Betalar du kontant?",
         "start" : 0,
-        "duration" : 0,
+        "duration" : 0
       },
       {
         "part" : "k",
         "text" : "Det kommer jag att göra.",
         "start" : 0,
-        "duration" : 0,
+        "duration" : 0
       },
       {
         "part" : "1",
         "text" : "Mmm. Åh, vad sa du att efternamnet va?",
         "start" : 0,
-        "duration" : 0,
+        "duration" : 0
       },
       {
         "part" : "k",
         "text" : "Luuk. L-U-U-U-K.",
         "start" : 0,
-        "duration" : 0,
+        "duration" : 0
       },
       {
         "part" : "1",
         "text" : "Mmm.",
         "start" : 0,
-        "duration" : 0,
+        "duration" : 0
       },
       {
         "part" : "k",
         "text" : "Jag har instruktioner till föraren.",
         "start" : 0,
-        "duration" : 0,
+        "duration" : 0
       },
       {
         "part" : "1",
         "text" : "Jaha ... hur då menar du?",
         "start" : 0,
-        "duration" : 0,
+        "duration" : 0
       },
       {
         "part" : "k",
@@ -116,49 +116,49 @@
         "part" : "1",
         "text" : "[knappar på tangentbord] Mhm.",
         "start" : 0,
-        "duration" : 0,
+        "duration" : 0
       },
       {
         "part" : "k",
         "text" : "14:31 kommer jag utrusande med ett handbagage.",
         "start" : 0,
-        "duration" : 0,
+        "duration" : 0
       },
       {
         "part" : "1",
         "text" : "[slutar skriva på tangentbord] Jaha.",
         "start" : 0,
-        "duration" : 0,
+        "duration" : 0
       },
       {
         "part" : "k",
         "text" : "Och när dörren går igen. Tryck på gasen i botten. Och sen åker vi till Hammarbyhamnen, där väntar en annan bil.",
         "start" : 0,
-        "duration" : 0,
+        "duration" : 0
       },
       {
         "part" : "1",
         "text" : "Jaha, vi ska vänta utanför banken alltså med motorn igång, 14:30.",
         "start" : 0,
-        "duration" : 0,
+        "duration" : 0
       },
       {
         "part" : "k",
         "text" : "Just det.",
         "start" : 0,
-        "duration" : 0,
+        "duration" : 0
       },
       {
         "part" : "1",
         "text" : "Ha, eh tack hej.",
         "start" : 0,
-        "duration" : 0,
+        "duration" : 0
       },
       {
         "part" : "k",
         "text" : "Hej.",
         "start" : 0,
-        "duration" : 0,
+        "duration" : 0
       },
 
     ]
