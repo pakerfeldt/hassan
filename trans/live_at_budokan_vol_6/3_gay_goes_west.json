@@ -1,0 +1,57 @@
+{"name":"Gay goes west","spotifyUri":"spotify:track:5MAuFQrYzqTYFEjdP6B4as","youtubeUrl":"","albumName":"Live at Budokan Vol 6","trackIndex":3,"transcription":{
+  "parts":[
+      {
+          "shortCode": "f",
+          "name": "Angel"
+      },
+      {
+          "shortCode": "1",
+          "name": "Representant på Narvik turistinformation"
+      }
+    ],
+    "dialog":[
+      {
+        "part" : "1",
+        "text" : "Narvik turistinformation",
+        "start" : 2000,
+        "stop" : 3146
+      },
+      {
+        "part" : "f",
+        "text" : "Hej. Hallå. Vart har jag kommit?",
+        "start" : 3700,
+        "stop" : 5500
+      },
+      {
+        "part" : "1",
+        "text" : "Till Narvik turistinformation",
+        "start" : 5650,
+        "stop" : 7500
+      },
+      {
+        "part" : "f",
+        "text" : "Hej, jag heter Angel, ringer från Stockholm homofilmsfestival.",
+        "start" : 7400,
+        "stop" : 10151
+      },
+      {
+        "part" : "f",
+        "text" : "Vi ska åka till Narvik, eh, nästa vecka.",
+        "start" : 10800,
+        "stop" : 13300
+      },
+      {
+        "part" : "1",
+        "text" : "Ja.",
+        "start" : 13300,
+        "stop" : 13900
+      },
+      {
+        "part" : "f",
+        "text" : "Allhopa kommer vara med. Baltazar, Tito, Robban, Jean-Claude, eh, Raul, Fleming. Allhopa kommer med och vi är jättetända på det här för vi har aldrig varit i Norge förut.",
+        "start" : 13900,
+        "stop" : 21200
+      }
+    ]
+  }
+}
