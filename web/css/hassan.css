@@ -1,39 +1,56 @@
+html, body {
+	font-family: Open Sans;
+}
+
 div#main {
   margin: auto;
-  width: 40%;
+  width: 500px;
   padding: 10px;
 }
 
 div#track-wrapper {
-  width: 50%; margin: 0 auto;
+ margin: 0 auto;
 }
 
 div#track-name {
   text-align: center;
 }
 
-div#dialog {
-
+ul#dialog {
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
 }
 
-.dialog-left,
-.dialog-right {
-  background-color: #eee;
-  border-radius: 5px;
-  padding: 10px;
-  display: block;
-  margin: 10px 0px;
-  max-width: 400px;
+#dialog > li {
+	display: flex;
+	position: relative;
 }
 
-.dialog-left {
-  float: left;
-  clear: both;
-  text-align: left;
+.right {
+	justify-content: flex-end;
+	text-align: right;
 }
 
-.dialog-right {
-  float: right;
-  clear: both;
-  text-align: right;
+.left {
+	justify-content: flex-start;
+}
+
+.right > .speech {
+	background-color: #eef;
+}
+
+.left > .speech {
+	background-color: #eee;
+}
+
+.speech {
+	border-radius: 5px;
+	padding: 10px;
+	margin: 10px 0px;
+}
+
+.speech > p {
+	margin: 0px;
+	
 }

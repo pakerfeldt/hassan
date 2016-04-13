@@ -30,21 +30,25 @@ function loadTranscriptions() {
 }
 
 function updateCurrentTranscription() {
-  if (currentTranscription.dialog.length < currentTransIndex + 1) {
-    return;
-  }
+	  if (typeof currentTranscription.dialog !== "undefined" && currentTranscription.dialog.length < currentTransIndex + 1) {
+		return;
+	  }
 
-  if (trackPosition < currentTranscription.dialog[currentTransIndex].stop) {
-    return;
-  }
+	if (typeof currentTranscription.dialog[currentTransIndex] !== "undefined") {
+		if (trackPosition < currentTranscription.dialog[currentTransIndex].stop) {
+			return;
+		}
 
-  currentTransIndex++;
+		currentTransIndex++;
 
-  if (currentTranscription.dialog[currentTransIndex].part == '1') {
-    $('#dialog').append('<div class="dialog-left">' + currentTranscription.dialog[currentTransIndex].text + '</div');
-  } else {
-    $('#dialog').append('<div class="dialog-right">' + currentTranscription.dialog[currentTransIndex].text + '</div>');
-  }
+		if (currentTranscription.dialog[currentTransIndex].part == '1') {
+			$('#dialog').append('<li id="transid-'+currentTransIndex+'" class="left"><div class="speech"><p>' + currentTranscription.dialog[currentTransIndex].text + '</p></div></li>');
+		} else {
+			$('#dialog').append('<li id="transid-'+currentTransIndex+'" class="right"><div class="speech"><p>' + currentTranscription.dialog[currentTransIndex].text + '</p></div></li>');
+		}
+		var fixedSpeechString = splitString($("#transid-"+currentTransIndex+" p"), 400);
+		$("#transid-"+currentTransIndex+" p").html(fixedSpeechString);
+	}
 }
 
 function updateTrackPosition() {
@@ -88,4 +92,35 @@ function bootstrap() {
   loadStatic();
   loadTranscriptions();
   setInterval(updateTrackPosition, 81);  
+}
+
+
+function getWidth(el, txt) {
+    el.html(txt);
+    return el.css('width').replace('px', '');
+}
+
+function splitString(el, maxWidth) {
+    var txtArr;
+    var presentTxt = '';
+    var futureTxt = '';
+    var finalTxt = '';
+    if (getWidth(el, el.html()) >= maxWidth) {
+        txtArr = el.html().split(' ');
+        for (var i in txtArr) {
+            futureTxt += txtArr[i] + ' ';
+            if (getWidth(el, futureTxt) > maxWidth) {
+                finalTxt += presentTxt.substring(0, presentTxt.length - 1) + '<br />';
+                futureTxt = presentTxt = txtArr[i] + ' ';
+            } else {
+                presentTxt = futureTxt;
+            }
+        }
+    } else {
+        finalTxt = el.html();
+    }
+    if (futureTxt != '') {
+        finalTxt += futureTxt;
+    }
+    return finalTxt;
 }
