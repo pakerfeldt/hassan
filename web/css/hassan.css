@@ -44,6 +44,9 @@ ul#dialog {
 	background-color: #eee;
 }
 
+ul#dialog li {
+  opacity: 0;
+}
 .speech {
 	border-radius: 5px;
 	padding: 10px;
@@ -52,5 +55,5 @@ ul#dialog {
 
 .speech > p {
 	margin: 0px;
-	
+
 }

@@ -30,25 +30,37 @@ function loadTranscriptions() {
 }
 
 function updateCurrentTranscription() {
-	  if (typeof currentTranscription.dialog !== "undefined" && currentTranscription.dialog.length < currentTransIndex + 1) {
-		return;
-	  }
+  if (typeof currentTranscription.dialog !== 'undefined' && currentTranscription.dialog.length < currentTransIndex + 1) {
+    return;
+  }
 
-	if (typeof currentTranscription.dialog[currentTransIndex] !== "undefined") {
-		if (trackPosition < currentTranscription.dialog[currentTransIndex].stop) {
-			return;
-		}
+  if (typeof currentTranscription.dialog[currentTransIndex] !== 'undefined') {
+    if (trackPosition < currentTranscription.dialog[currentTransIndex].stop) {
+      return;
+    }
 
-		currentTransIndex++;
+    currentTransIndex++;
 
-		if (currentTranscription.dialog[currentTransIndex].part == '1') {
-			$('#dialog').append('<li id="transid-'+currentTransIndex+'" class="left"><div class="speech"><p>' + currentTranscription.dialog[currentTransIndex].text + '</p></div></li>');
-		} else {
-			$('#dialog').append('<li id="transid-'+currentTransIndex+'" class="right"><div class="speech"><p>' + currentTranscription.dialog[currentTransIndex].text + '</p></div></li>');
-		}
-		var fixedSpeechString = splitString($("#transid-"+currentTransIndex+" p"), 400);
-		$("#transid-"+currentTransIndex+" p").html(fixedSpeechString);
-	}
+    var transid = 'transid-' + currentTransIndex;
+    if (currentTranscription.dialog[currentTransIndex].part == '1') {
+      $('#dialog').append('<li id="' + transid + '" class="left"><div class="speech"><p>' + currentTranscription.dialog[currentTransIndex].text + '</p></div></li>');
+    } else {
+      $('#dialog').append('<li id="' + transid + '" class="right"><div class="speech"><p>' + currentTranscription.dialog[currentTransIndex].text + '</p></div></li>');
+    }
+
+    var fixedSpeechString = splitString($('#' + transid + ' p'), 400);
+    $('#transid-' + currentTransIndex + ' p').html(fixedSpeechString);
+    fadeIn(transid);
+    scrollToBottom();
+  }
+}
+
+function fadeIn(transid) {
+  $('#' + transid).fadeTo(600, 1);
+}
+
+function scrollToBottom() {
+  $('html, body').animate({ scrollTop: $(document).height() }, 500);
 }
 
 function updateTrackPosition() {
@@ -80,7 +92,7 @@ function toast(s, s2) {
 
 function loadStatic() {
   $('#cover-art').empty();
-  $('#cover-art').append('<img id="cover-art-image" src="https://i.scdn.co/image/a8954e81a8dd946388b2d745acd1f2dd24dbf7c2" width="500" height="500" />');
+  $('#cover-art').append('<img onclick="scrollToBottom();" id="cover-art-image" src="https://i.scdn.co/image/a8954e81a8dd946388b2d745acd1f2dd24dbf7c2" width="500" height="500" />');
   $('#track-name').text('Gay goes west');
   trackPosition = 0;
   trackDuration = 60000;
@@ -91,36 +103,37 @@ function bootstrap() {
   //connect();
   loadStatic();
   loadTranscriptions();
-  setInterval(updateTrackPosition, 81);  
+  setInterval(updateTrackPosition, 81);
 }
 
-
 function getWidth(el, txt) {
-    el.html(txt);
-    return el.css('width').replace('px', '');
+  el.html(txt);
+  return el.css('width').replace('px', '');
 }
 
 function splitString(el, maxWidth) {
-    var txtArr;
-    var presentTxt = '';
-    var futureTxt = '';
-    var finalTxt = '';
-    if (getWidth(el, el.html()) >= maxWidth) {
-        txtArr = el.html().split(' ');
-        for (var i in txtArr) {
-            futureTxt += txtArr[i] + ' ';
-            if (getWidth(el, futureTxt) > maxWidth) {
-                finalTxt += presentTxt.substring(0, presentTxt.length - 1) + '<br />';
-                futureTxt = presentTxt = txtArr[i] + ' ';
-            } else {
-                presentTxt = futureTxt;
-            }
-        }
-    } else {
-        finalTxt = el.html();
+  var txtArr;
+  var presentTxt = '';
+  var futureTxt = '';
+  var finalTxt = '';
+  if (getWidth(el, el.html()) >= maxWidth) {
+    txtArr = el.html().split(' ');
+    for (var i in txtArr) {
+      futureTxt += txtArr[i] + ' ';
+      if (getWidth(el, futureTxt) > maxWidth) {
+        finalTxt += presentTxt.substring(0, presentTxt.length - 1) + '<br />';
+        futureTxt = presentTxt = txtArr[i] + ' ';
+      } else {
+        presentTxt = futureTxt;
+      }
     }
-    if (futureTxt != '') {
-        finalTxt += futureTxt;
-    }
-    return finalTxt;
+  } else {
+    finalTxt = el.html();
+  }
+
+  if (futureTxt != '') {
+    finalTxt += futureTxt;
+  }
+
+  return finalTxt;
 }
