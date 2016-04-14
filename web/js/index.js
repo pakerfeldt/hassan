@@ -62,6 +62,7 @@ function fadeIn(transid) {
 	} else {
 		TweenLite.from(el, 0.3, {opacity:0, right:"300px"});
 	}
+	TweenLite.from(el.find(".icon"), 0.3, {opacity:0, height:"0px", delay:0.3});
 }
 
 function scrollToBottom() {
