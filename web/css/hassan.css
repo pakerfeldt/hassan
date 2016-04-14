@@ -2,9 +2,7 @@ html, body {
 	font-family: Open Sans;
 }
 
-div {
-  text-align: center;
-}
+
 
 div#main {
   margin: auto;
@@ -38,10 +36,11 @@ ul#dialog {
 
 .left {
 	justify-content: flex-start;
+	text-align: left;
 }
 
 .right > .speech {
-	background-color: #eef;
+	background-color: #B3E5FC;
 }
 
 .left > .speech {
@@ -49,15 +48,49 @@ ul#dialog {
 }
 
 ul#dialog li {
-  opacity: 0;
+  //opacity: 0;
 }
 .speech {
 	border-radius: 5px;
 	padding: 10px;
 	margin: 10px 0px;
+	position: relative;
 }
 
 .speech > p {
 	margin: 0px;
 
+}
+
+.icon {
+	width: 42px;
+	height: 42px;
+	display: inline-block;
+	margin: 10px;
+	border-radius: 5px;
+}
+
+.right .icon {
+	background: #B3E5FC url("../img/h-bg.png") no-repeat center center;
+}
+
+.left .icon {
+	background: #eee url("../img/phone-bg.png") no-repeat center center;
+}
+
+.arrow {
+	height: 10px;
+	width: 4px;
+	position: absolute;
+	top: 16px;
+}
+
+.left .arrow {
+	background: #eee url("../img/arrow-mask-left.png") no-repeat center center;
+	left: -4px;
+}
+
+.right .arrow {
+	background: #B3E5FC url("../img/arrow-mask-right.png") no-repeat center center;
+	right: -4px;
 }

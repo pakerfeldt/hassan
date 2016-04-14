@@ -14,18 +14,18 @@ function loadTranscriptions() {
   var url = 'https://raw.githubusercontent.com/pakerfeldt/hassan/master/trans/live_at_budokan_vol_6/3_gay_goes_west.json';
   $.ajax({
     type: 'GET',
-    dataType: 'text',
+    dataType: 'json',
     crossDomain: true,
-    url: url,
-    success: function(responseData, textStatus, jqXHR) {
+    url: url
+  })
+  .done(function(responseData, textStatus, jqXHR) {
       //console.log('Trans', responseData);
-      currentTranscription = JSON.parse(responseData).transcription;
+      currentTranscription = responseData.transcription;
       console.log('Parts', currentTranscription.parts);
-    },
+  })
 
-    error: function(responseData, textStatus, errorThrown) {
+  .fail(function(responseData, textStatus, errorThrown) {
       console.log('Could not retrieve transcriptions', errorThrown);
-    }
   });
 }
 
@@ -43,9 +43,9 @@ function updateCurrentTranscription() {
 
     var transid = 'transid-' + currentTransIndex;
     if (currentTranscription.dialog[currentTransIndex].part == '1') {
-      $('#dialog').append('<li id="' + transid + '" class="left"><div class="speech"><p>' + currentTranscription.dialog[currentTransIndex].text + '</p></div></li>');
+      $('#dialog').append('<li id="' + transid + '" class="left"><div class="icon"></div><div class="speech"><div class="arrow"></div><p>' + currentTranscription.dialog[currentTransIndex].text + '</p></div></li>');
     } else {
-      $('#dialog').append('<li id="' + transid + '" class="right"><div class="speech"><p>' + currentTranscription.dialog[currentTransIndex].text + '</p></div></li>');
+      $('#dialog').append('<li id="' + transid + '" class="right"><div class="speech"><p>' + currentTranscription.dialog[currentTransIndex].text + '</p><div class="arrow"></div></div><div class="icon"></div></li>');
     }
 
     var fixedSpeechString = splitString($('#' + transid + ' p'), 400);
@@ -56,7 +56,12 @@ function updateCurrentTranscription() {
 }
 
 function fadeIn(transid) {
-  $('#' + transid).fadeTo(600, 1);
+	var el = $("#"+transid);
+	if (el.hasClass("right")) { // Testar animation med GSAP istället för jQuery
+		TweenLite.from(el, 0.3, {opacity:0, left:"300px"});
+	} else {
+		TweenLite.from(el, 0.3, {opacity:0, right:"300px"});
+	}
 }
 
 function scrollToBottom() {
