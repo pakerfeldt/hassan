@@ -1,0 +1,32 @@
+div {
+  font-family: verdana;
+  font-size: 0.5rem;
+}
+
+#focus-notification {
+  width: 600px;
+  margin-bottom: 20px;
+}
+
+.progress {
+  width: 400px;
+}
+
+div.stub {
+    margin-top: 10px;
+}
+
+div.load-url {
+  display: block;
+  width: 600px;
+}
+
+input#load-url {
+  width: 550px;
+}
+
+textarea#stub {
+  margin: 0px;
+  height: 600px;
+  width: 600px;
+}

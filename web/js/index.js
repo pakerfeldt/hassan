@@ -92,7 +92,7 @@ function toast(s, s2) {
 
 function loadStatic() {
   $('#cover-art').empty();
-  $('#cover-art').append('<img onclick="scrollToBottom();" id="cover-art-image" src="https://i.scdn.co/image/a8954e81a8dd946388b2d745acd1f2dd24dbf7c2" width="500" height="500" />');
+  $('#cover-art').append('<img onclick="scrollToBottom();" id="cover-art-image" src="https://i.scdn.co/image/a8954e81a8dd946388b2d745acd1f2dd24dbf7c2" width="300" height="300" />');
   $('#track-name').text('Gay goes west');
   trackPosition = 0;
   trackDuration = 60000;

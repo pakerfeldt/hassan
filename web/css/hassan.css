@@ -2,6 +2,10 @@ html, body {
 	font-family: Open Sans;
 }
 
+div {
+  text-align: center;
+}
+
 div#main {
   margin: auto;
   width: 500px;
