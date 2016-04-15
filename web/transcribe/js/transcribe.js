@@ -9,20 +9,37 @@ var current = {
 };
 
 var stub = {};
+var files = {};
+var lastProgressStart;
+var lastProgressEnd;
 
 function bootstrap() {
+  loadTrackNames();
   player = document.getElementById('player');
-  current = {
-    isPlaying: false,
-    duration: player.duration,
-    position: player.currentTime
-  };
-
-  $('#progress-end').text(player.duration.toMMSS());
 
   $('#player').bind('timeupdate', function() {
     var player = $(this);
     current.position = this.currentTime;
+
+    if (lastProgressStart !== parseInt(current.position, 10)) {
+      lastProgressStart = parseInt(current.position, 10);
+      $('#progress-start').text(current.position.toMMSS());
+    }
+
+    var left = current.duration - current.position;
+    if (lastProgressEnd !== parseInt(left, 10)) {
+      lastProgressEnd = parseInt(left, 10);
+      $('#progress-end').text(left.toMMSS());
+    }
+  });
+
+  $('#player').bind('loadedmetadata', function() {
+    $('#progress-end').text(player.duration.toMMSS());
+    current = {
+      isPlaying: false,
+      duration: player.duration,
+      position: player.currentTime
+    };
   });
 
   $('.focus').focusin(function() {
@@ -99,7 +116,48 @@ function bootstrap() {
     renderStub();
   });
 
+  $('#volumes').change(function() {
+    onVolumeChanged();
+  });
+
+  $('#tracks').change(function() {
+    onTrackChanged();
+  });
+
+  $('#remove-part').click(function() {
+    var shortCode = window.prompt('Remove all dialogs from part', 'shortCode');
+    if (stub !== undefined && stub.transcription !== undefined && stub.transcription.dialog !== undefined) {
+      stub.transcription.dialog = $.grep(stub.transcription.dialog, function(value) {
+        return value.part !== shortCode;
+      });
+/*
+      $.each(stub.transcription.dialog, function(key, value) {
+        if (value.part === shortCode) {
+          stub.transcription.dialog.splice(key, 1);
+        }
+      });
+      */
+
+      renderStub();
+    }
+  });
+
   setInterval(updateProgress, 81);
+}
+
+function onVolumeChanged() {
+  var volume = $('#volumes option:selected').text();
+  $('#tracks').empty();
+  $.each(files[volume], function(key, value) {
+    $('#tracks').append($('<option></option>').text(value));
+  });
+
+  onTrackChanged();
+}
+
+function onTrackChanged() {
+  var comp = $('#volumes option:selected').text() + '/' + $('#tracks option:selected').text()
+  $('#player').attr('src', 'media/' + encodeURIComponent(comp));
 }
 
 function play() {
@@ -151,9 +209,31 @@ function updateProgress() {
   if (current.isPlaying) {
     current.position += dt / 1000;
   }
+
   if (!seeking) { // Do not move handler if user is currently dragging it
     $('#progress').val(current.position / current.duration * 100);
   }
+}
+
+function loadTrackNames() {
+  $.ajax({
+    type: 'GET',
+    dataType: 'text',
+    crossDomain: true,
+    url: 'https://raw.githubusercontent.com/pakerfeldt/hassan/master/web/transcribe/js/files.json',
+    success: function(responseData, textStatus, jqXHR) {
+      files = JSON.parse(responseData);
+      for (var key in files) {
+        $('#volumes').append($('<option></option>').text(key));
+      }
+
+      onVolumeChanged();
+    },
+
+    error: function(responseData, textStatus, errorThrown) {
+      console.log('Could not retrieve files', errorThrown);
+    }
+  });
 }
 
 Number.prototype.toMMSS = function() {

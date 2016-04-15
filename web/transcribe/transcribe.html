@@ -15,8 +15,12 @@
 </head>
 <body onload="bootstrap();">
 
+  <div>
+    <select id="volumes"></select>
+    <select id="tracks"></select>
+  </div>
   <div id="focus-notification">
-    <audio src="media/01_Parkering.mp3" id="player"></audio>
+    <audio src="media/vol1/02%20Fo%CC%88ra%CC%88ldrafo%CC%88reningen%20Fo%CC%88r%20Narkotika.mp3" id="player"></audio>
     <button class="focus" onClick="javascript:play()" >Play</button>
     <button class="focus" onClick="javascript:pause()" >Pause</button>
     <progress id="seekbar"></progress>
@@ -35,6 +39,7 @@
   <div class="stub">
     <textarea id="stub" cols="80"></textarea>
   </div>
+  <input type="button" id="remove-part" value="Remove part"/>
   <input type="text" id="track-title" placeholder="Track title" />
   <input type="text" id="album-name" placeholder="Album name" />
   <input type="text" id="spotify-uri" placeholder="Spotify URI" />
