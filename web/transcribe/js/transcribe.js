@@ -21,16 +21,16 @@ function bootstrap() {
     var player = $(this);
     current.position = this.currentTime;
 
-    if (lastProgressStart !== parseInt(current.position, 10)) {
+//    if (lastProgressStart !== parseInt(current.position, 10)) {
       lastProgressStart = parseInt(current.position, 10);
-      $('#progress-start').text(current.position.toMMSS());
-    }
+      $('#progress-start').text(current.position.toMMSS() + ' (' + Math.round(current.position * 1000) + ')');
+//    }
 
     var left = current.duration - current.position;
-    if (lastProgressEnd !== parseInt(left, 10)) {
+//    if (lastProgressEnd !== parseInt(left, 10)) {
       lastProgressEnd = parseInt(left, 10);
       $('#progress-end').text(left.toMMSS());
-    }
+//    }
   });
 
   $('#player').bind('loadedmetadata', function() {
@@ -108,6 +108,7 @@ function bootstrap() {
   });
 
   $('#load-url').on('blur', function() {
+    console.log('loading', $('#load-url').val());
     loadStubDataFromUrl($('#load-url').val());
   });
 
@@ -157,12 +158,17 @@ function onVolumeChanged() {
 
 function onTrackChanged() {
   var comp = $('#volumes option:selected').text() + '/' + $('#tracks option:selected').text()
-  $('#player').attr('src', 'media/' + encodeURIComponent(comp));
+  $('#player').attr('src', 'media/' + comp);
 }
 
 function play() {
-  player.play();
-  current.isPlaying = true;
+  if (current.isPlaying) {
+    player.pause();
+    current.isPlaying = false;
+  } else {
+    player.play();
+    current.isPlaying = true;
+  }
 }
 
 function pause() {
@@ -177,6 +183,7 @@ function loadStubDataFromUrl(url) {
     crossDomain: true,
     url: url,
     success: function(responseData, textStatus, jqXHR) {
+      console.log(responseData);
       var existingDialog = [];
       if (stub !== undefined && stub.transcription !== undefined && stub.transcription.dialog != undefined) {
         existingDialog = stub.transcription.dialog;
@@ -194,6 +201,10 @@ function loadStubDataFromUrl(url) {
 }
 
 function renderStub() {
+  var sortedDialog = stub.transcription.dialog.sort(function (a, b) {
+    return a.start - b.start;
+  });
+  stub.transcription.dialog = sortedDialog;
   var pretty = JSON.stringify(stub, undefined, 4);
   $('#stub').val(pretty);
 }
