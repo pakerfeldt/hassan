@@ -8,11 +8,11 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: None
 PlayResX: 0
 PlayResY: 0
+Original Script: Busringning
+Youtube: Li-c2UuvZus
 
 [Aegisub Project Garbage]
 Audio File: ../../media/vol1/07 Schampo för fett hår.mp3
-Scroll Position: 20
-Active Line: 32
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -20,7 +20,7 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.88,0:00:04.50,Default,m:Malin (Ica-rutan),0,0,0,,Ica-rutan, Malin.
+Dialogue: 0,0:00:02.88,0:00:04.50,Default,m:Malin,0,0,0,Ica-rutan,Ica-rutan, Malin.
 Dialogue: 0,0:00:04.64,0:00:05.80,Default,k:Kristian (Kristian Luuk),0,0,0,Hassan,Är det Ica-butiken?
 Dialogue: 0,0:00:05.80,0:00:06.34,Default,m,0,0,0,,Ja.
 Dialogue: 0,0:00:06.34,0:00:10.30,Default,k,0,0,0,,Goddag. Jag var inne igår och handlade en flaska Wella-schampo.

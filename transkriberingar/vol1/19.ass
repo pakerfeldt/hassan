@@ -8,11 +8,12 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: None
 PlayResX: 0
 PlayResY: 0
+Original Script: Busringning
+Youtube: tkk9eDp0slE
 
 [Aegisub Project Garbage]
 Audio File: ../../media/vol1/19 Williamspäron.mp3
-Scroll Position: 65
-Active Line: 80
+Active Line: 14
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,7 +35,7 @@ Dialogue: 0,0:00:24.78,0:00:27.24,Default,r,0,0,0,,Wienernougat. Ja det har vi i
 Dialogue: 0,0:00:27.24,0:00:29.34,Default,f,0,0,0,,Den låg trea på min lista förra veckan.
 Dialogue: 0,0:00:29.56,0:00:31.12,Default,r,0,0,0,,Ah men det har vi inte idag.
 Dialogue: 0,0:00:31.12,0:00:31.66,Default,f,0,0,0,,Nej.
-Dialogue: 0,0:00:32.30,0:00:34.90,Default,r,0,0,0,,Men det har vi många andra goda, Men det har vi många andra goda, schweizisk toffee..
+Dialogue: 0,0:00:32.30,0:00:34.90,Default,r,0,0,0,,Men det har vi många andra goda, schweizisk toffee..
 Dialogue: 0,0:00:33.70,0:00:34.58,Default,f,0,0,0,,Mm.
 Dialogue: 0,0:00:35.16,0:00:37.04,Default,f,0,0,0,,Vet du vilken som är etta på min lista?
 Dialogue: 0,0:00:37.46,0:00:37.98,Default,r,0,0,0,,Nej?
